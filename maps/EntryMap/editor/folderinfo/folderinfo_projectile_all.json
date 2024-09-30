@@ -1,0 +1,38 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "JK0XDnpVEe+DNFuZB4f+HQ", 
+    "\u602a\u7269\u9884\u5236"
+   ]
+  }
+ ], 
+ "d": {
+  "134227277": {
+   "__tuple__": true, 
+   "items": [
+    "JK0XDnpVEe+DNFuZB4f+HQ", 
+    0
+   ]
+  }, 
+  "134270690": {
+   "__tuple__": true, 
+   "items": [
+    "JK0XDnpVEe+DNFuZB4f+HQ", 
+    1
+   ]
+  }
+ }
+}
