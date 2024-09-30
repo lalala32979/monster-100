@@ -1,0 +1,164 @@
+{
+    "1024": {
+        "10002": {
+            "id": 10002, 
+            "name": "\u73a9\u5bb6\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -9, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10003": {
+            "id": 10003, 
+            "name": "\u602a\u7269\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        9, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }
+    }, 
+    "2048": {
+        "10005": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    8, 
+                    1338221762
+                ]
+            }, 
+            "id": 10005, 
+            "name": "\u77e9\u5f62\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -6, 
+                        3138992304
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        -8, 
+                        3342020667
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    10, 
+                    1249817942
+                ]
+            }
+        }
+    }, 
+    "4096": {
+        "10004": {
+            "color": null, 
+            "id": 10004, 
+            "name": "\u5706\u5f62\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            "radius": {
+                "__tuple__": true, 
+                "items": [
+                    16, 
+                    0
+                ]
+            }, 
+            "sound": null, 
+            "type": 4096, 
+            "weather": 0
+        }
+    }, 
+    "8192": {}, 
+    "32768": {
+        "9999": {
+            "camera_dist": 18.0, 
+            "far": 1000.0, 
+            "focus_max_dist": 20.0, 
+            "focus_min_dist": 6.0, 
+            "focus_x": 0.0, 
+            "focus_y": 0.0, 
+            "focus_z": 0.0, 
+            "fov": 35.0, 
+            "fov_disabled": true, 
+            "id": 9999, 
+            "is_origin_cam": true, 
+            "is_ortho": false, 
+            "name": "\u521d\u59cb\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 0.9773843865841627, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": false, 
+            "type": 32768, 
+            "yaw": 0.0
+        }
+    }, 
+    "65536": {}, 
+    "131072": {}, 
+    "262144": {}, 
+    "1048576": {}, 
+    "2097152": {}, 
+    "4194304": {}, 
+    "134217728": {}
+}

@@ -1,0 +1,59 @@
+{
+    "action": [
+        {
+            "action_type": "NEW_CAMERA_LIMIT_MOVE", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [
+                        1
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100009, 
+                    "args_list": [
+                        10005
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 702599169000005, 
+            "enable": true, 
+            "op_arg": [
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        true
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "op_arg_enable": [
+                false
+            ]
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [], 
+            "element_id": 702599169000002, 
+            "enable": true, 
+            "event_type": "INIT_FINISHED"
+        }
+    ], 
+    "group_id": 0, 
+    "p_trigger_id": null, 
+    "trigger_id": 702599169, 
+    "trigger_name": "新建触发器", 
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
+}
