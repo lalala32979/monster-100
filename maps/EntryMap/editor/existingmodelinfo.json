@@ -174,5 +174,805 @@
    "\u77e9\u5f62\u533a\u57df", 
    2048
   ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   106, 
+   "\u6ce2\u6ce2\u6d6a\u6d6a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   107, 
+   "\u6d6a\u91cc\u4e2a\u6ce2", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   108, 
+   "\u6ce2\u91cc\u4e2a\u6d6a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   109, 
+   "\u949b\u65cf\u7532\u866b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   110, 
+   "\u949b\u65cf\u98de\u866b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   111, 
+   "\u949b\u65cf\u6cd5\u5e08", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   112, 
+   "\u949b\u65cf\u58eb\u5175", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   113, 
+   "\u949b\u65cf\u5927\u796d\u53f8", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   114, 
+   "\u949b\u65cf\u78c1\u529b\u683c\u6597\u8005", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   115, 
+   "\u949b\u65cf\u7eb3\u7c73\u5251\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   116, 
+   "\u949b\u65cf\u7834\u574f\u795e", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   117, 
+   "\u706b\u72fc", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   118, 
+   "\u53cc\u5934\u706b\u72fc", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   119, 
+   "\u5730\u72f1\u4e09\u5934\u72ac", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   120, 
+   "\u7f8e\u675c\u838e", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   121, 
+   "\u738b\u5ead\u62a4\u536b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   122, 
+   "\u7194\u5ca9\u5de8\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   123, 
+   "\u5bd2\u51b0\u5de8\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   124, 
+   "\u72ec\u773c\u5de8\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   125, 
+   "\u706b\u7130\u5de8\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   126, 
+   "\u708e\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   127, 
+   "\u91d1\u521a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   128, 
+   "\u9e70\u8eab\u4eba", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   129, 
+   "\u534a\u4eba\u9a6c\u5c04\u624b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   130, 
+   "\u534a\u4eba\u9a6c\u9a91\u5175", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   131, 
+   "\u534a\u4eba\u9a6c\u58eb\u5175", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   132, 
+   "\u7070\u8272\u5de8\u9b54\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   133, 
+   "\u5e7d\u7075\u58eb\u5175", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   134, 
+   "\u5e7d\u7075\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   135, 
+   "\u5e7d\u7075\u6cd5\u5e08", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   136, 
+   "\u725b\u5934\u602a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   137, 
+   "\u4eba\u9c7c\u5973\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   138, 
+   "\u6811\u4eba\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   139, 
+   "\u4e0d\u6b7b\u5c06\u519b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   140, 
+   "\u7194\u5ca9\u602a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   141, 
+   "\u9752\u86d9\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   142, 
+   "\u86db\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   143, 
+   "\u6076\u9b54\u767d\u8272\u8759\u8760", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   144, 
+   "\u84dd\u517d\u4eba\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   145, 
+   "\u53cc\u5934\u9b54\u8d35\u5987", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   146, 
+   "\u53cc\u5934\u5de8\u9b54\u5c06\u519b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   147, 
+   "\u53cc\u5934\u5de8\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   148, 
+   "\u53cc\u5934\u5de8\u9b54\u5de5\u5320", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   149, 
+   "\u6076\u9b54\u7ea2\u8272\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   150, 
+   "\u6811\u602a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   151, 
+   "\u5bd2\u51b0\u6076\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   152, 
+   "\u7d2b\u8272\u517d\u65cf\u725b\u5934\u4eba", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   153, 
+   "\u6076\u9b54\u7ea2\u8272\u5730\u72f1\u72ac", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   154, 
+   "\u6d77\u5996\u4e4b\u738b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   155, 
+   "\u6076\u7075\u5c06\u519b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   156, 
+   "\u77f3\u5de8\u4eba", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   157, 
+   "\u84dd\u51b0\u5de8\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   158, 
+   "\u51b0\u5de8\u4eba", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   159, 
+   "\u7194\u7089\u5de8\u602a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   160, 
+   "\u91d1\u7532\u866b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   161, 
+   "\u94c1\u7532\u602a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   162, 
+   "\u5de8\u9524\u602a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   163, 
+   "\u96ea\u5996", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   164, 
+   "\u6811\u5996", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   165, 
+   "\u6811\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   166, 
+   "\u5ca9\u77f3\u5de8\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   167, 
+   "\u5de8\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   168, 
+   "\u5de8\u9b54\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   169, 
+   "\u8725\u8734\u4eba", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   170, 
+   "\u8725\u8734\u4eba\u58eb\u5175", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   171, 
+   "\u8725\u8734\u4eba\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   172, 
+   "\u70c8\u7130\u8725\u8734\u4eba", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   173, 
+   "\u6076\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   174, 
+   "\u5bd2\u51b0\u90aa\u7075", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   175, 
+   "\u90aa\u7075", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   176, 
+   "\u81ea\u7136\u5143\u7d20\u602a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   177, 
+   "\u6df1\u6e0a\u5143\u7d20\u602a", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   178, 
+   "\u5267\u6bd2\u6076\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   179, 
+   "\u5ca9\u6d46\u6076\u9b54", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   180, 
+   "\u5267\u6bd2\u874e\u5c3e\u517d", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   181, 
+   "\u70c8\u7130\u874e\u5c3e\u517d", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   182, 
+   "\u611f\u7535\u874e\u5c3e\u517d", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   183, 
+   "\u84dd\u53cc\u5934\u72ac", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   184, 
+   "\u7ea2\u53cc\u5934\u72ac", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   185, 
+   "\u4ea1\u7075\u6076\u72fc", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   186, 
+   "\u6bd2\u6db2\u6076\u72fc", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   187, 
+   "\u70c8\u7130\u6076\u72fc", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   188, 
+   "\u6bd2\u874e", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   189, 
+   "\u706b\u5143\u7d20", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   190, 
+   "\u5ca9\u6d46\u5de8\u4eba", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   191, 
+   "\u9b54\u874e", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   192, 
+   "\u6d77\u5996\u9996\u4f4d", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   193, 
+   "\u6d77\u5996\u6c34\u6cd5\u5e08", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   194, 
+   "\u6d77\u5996\u96f7\u6cd5\u5e08", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   195, 
+   "\u6d77\u5996\u706b\u6cd5\u5e08", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   196, 
+   "\u6d77\u5996\u5c04\u624b", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   197, 
+   "\u725b\u5934\u6218\u58eb", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   198, 
+   "\u7eff\u8272\u6076\u9b54\u9f99", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   199, 
+   "\u72fc\u4eba", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   200, 
+   "\u86c7\u9b54\u6cd5\u5e08", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   201, 
+   "\u77f3\u4e8c", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   202, 
+   "\u77f3\u5927", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   203, 
+   "\u971c\u5de8\u4eba", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   204, 
+   "\u767d\u8272\u795e\u79d8\u523a\u5ba2", 
+   4
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   205, 
+   "\u9ec4\u8272\u5766\u514b\u6218\u58eb", 
+   4
+  ]
  }
 ]
