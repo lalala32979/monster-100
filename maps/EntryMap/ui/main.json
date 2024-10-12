@@ -1,7 +1,168 @@
 {
     "adapt_mode": 2, 
     "anim_data": {}, 
-    "children": [], 
+    "children": [
+        {
+            "children": [], 
+            "disabled_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    254
+                ]
+            }, 
+            "disabled_font_color": {
+                "__tuple__": true, 
+                "items": [
+                    54, 
+                    50, 
+                    50, 
+                    255
+                ]
+            }, 
+            "disabled_picture": 108492, 
+            "disabled_status_added": true, 
+            "disabled_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u5f55\u5236\u6a21\u5f0f", 
+                    false
+                ]
+            }, 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "panel_1", 
+                            "ease_type": 0, 
+                            "name": "Show_1", 
+                            "open_timeline": true, 
+                            "type": 2
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "button_1_0", 
+                    "sound_id": null, 
+                    "type": 29
+                }
+            ], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "HKWeiBeiW7", 
+                    48
+                ]
+            }, 
+            "hover_status_added": true, 
+            "name": "button_1", 
+            "normal_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    254
+                ]
+            }, 
+            "normal_font_color": {
+                "__tuple__": true, 
+                "items": [
+                    54, 
+                    50, 
+                    50, 
+                    255
+                ]
+            }, 
+            "normal_picture": 108494, 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u5f55\u5236\u6a21\u5f0f", 
+                    false
+                ]
+            }, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    1001.8188, 
+                    50.0, 
+                    92.761, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "press_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    254
+                ]
+            }, 
+            "press_font_color": {
+                "__tuple__": true, 
+                "items": [
+                    54, 
+                    50, 
+                    50, 
+                    255
+                ]
+            }, 
+            "press_picture": 108492, 
+            "press_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u5f55\u5236\u6a21\u5f0f", 
+                    false
+                ]
+            }, 
+            "pressed_status_added": true, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    360.0, 
+                    122.93
+                ]
+            }, 
+            "suspend_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    254
+                ]
+            }, 
+            "suspend_font_color": {
+                "__tuple__": true, 
+                "items": [
+                    54, 
+                    50, 
+                    50, 
+                    255
+                ]
+            }, 
+            "suspend_picture": 108493, 
+            "suspend_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u5f55\u5236\u6a21\u5f0f", 
+                    false
+                ]
+            }, 
+            "type": 1, 
+            "uid": "8db76897-4ecb-4ed1-a60a-f8715015c0c3"
+        }
+    ], 
     "name": "main", 
     "opacity": 1.0, 
     "type": 2, 
