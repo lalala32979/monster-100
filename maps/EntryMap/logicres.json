@@ -9,16 +9,16 @@
                 "__tuple__": true, 
                 "items": [
                     [
-                        -9, 
-                        0
+                        -5, 
+                        3272092362
                     ], 
                     [
                         0, 
                         0
                     ], 
                     [
-                        64, 
-                        0
+                        63, 
+                        3960460029
                     ]
                 ]
             }, 
@@ -42,6 +42,30 @@
                     ], 
                     [
                         64, 
+                        0
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10006": {
+            "id": 10006, 
+            "name": "\u6444\u50cf\u673a\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        62, 
                         0
                     ]
                 ]
@@ -131,12 +155,12 @@
     "8192": {}, 
     "32768": {
         "9999": {
-            "camera_dist": 18.0, 
+            "camera_dist": 20.0, 
             "far": 1000.0, 
-            "focus_max_dist": 20.0, 
-            "focus_min_dist": 6.0, 
-            "focus_x": 1.2326648288228922e-15, 
-            "focus_y": -8.898126679923735e-11, 
+            "focus_max_dist": 28.0, 
+            "focus_min_dist": 10.0, 
+            "focus_x": 0.0, 
+            "focus_y": 0.0, 
             "focus_z": 64.0, 
             "fov": 35.0, 
             "fov_disabled": true, 

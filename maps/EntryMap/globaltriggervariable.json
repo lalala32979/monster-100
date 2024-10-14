@@ -1,9 +1,30 @@
 {
     "variable_dict": {
         "INTEGER": {}, 
-        "UNIT_ENTITY": {}, 
+        "UNIT_ENTITY": {
+            "\u602a\u7269": 0, 
+            "\u82f1\u96c4": 0
+        }, 
         "UNIT_NAME": {}
     }, 
-    "variable_group_info": [], 
-    "variable_length_dict": {}
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u602a\u7269", 
+                "\u602a\u7269"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u82f1\u96c4", 
+                "\u82f1\u96c4"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "\u602a\u7269": 0, 
+        "\u82f1\u96c4": 0
+    }
 }
