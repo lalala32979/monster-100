@@ -76,7 +76,7 @@
         "items": []
     }, 
     "common_atk": [
-        134224183, 
+        10101032, 
         1
     ], 
     "common_atk_type": 2, 
@@ -316,7 +316,6 @@
     "speed_ratio_in_turn": 1, 
     "standard_walk_rate": 40.0, 
     "start_rft": 1.0, 
-    "state_init": "", 
     "state_list": {
         "__tuple__": true, 
         "items": []
