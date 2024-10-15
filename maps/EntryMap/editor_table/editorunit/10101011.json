@@ -41,7 +41,7 @@
     "billboard_scale_y": 1, 
     "blood_bar": 65537, 
     "blood_show_type": 0, 
-    "body_size": 1.8, 
+    "body_size": 1.0, 
     "build_ignore_dyn_collision": false, 
     "build_res_cost_list": {
         "__tuple__": true, 
@@ -70,7 +70,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "collision_radius_2": 1.0, 
+    "collision_radius_2": 3.85, 
     "common_ability_list": {
         "__tuple__": true, 
         "items": []
@@ -103,7 +103,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "dynamic_collision_r": 1.5, 
+    "dynamic_collision_r": 5.5, 
     "enable_strict_facing_mode": false, 
     "enemy_mini_map_icon": 100000, 
     "extra_dmg": 0.0, 
@@ -316,7 +316,6 @@
     "speed_ratio_in_turn": 1, 
     "standard_walk_rate": 40.0, 
     "start_rft": 1.0, 
-    "state_init": "", 
     "state_list": {
         "__tuple__": true, 
         "items": []

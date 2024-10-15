@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.5, 
+    "ability_prepare_time": 0.46, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [

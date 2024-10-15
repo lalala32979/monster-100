@@ -1,43 +1,76 @@
 {
     "_custom_": true, 
-    "_ref_": 134280151, 
+    "_ref_": 134282304, 
     "attach_model_list": {
         "__tuple__": true, 
         "items": []
     }, 
     "cycle_time": 0, 
-    "desc": -512769723, 
-    "description": -512769723, 
+    "desc": -265427927, 
+    "description": -265427927, 
     "disappear_when_dead": true, 
     "get_effect_list": [
         [
-            101042, 
+            104961, 
             {
                 "__tuple__": true, 
                 "items": [
                     0.0, 
                     0.0, 
-                    2.6
-                ]
-            }, 
-            {
-                "__tuple__": true, 
-                "items": [
-                    0.0, 
-                    -60.0, 
                     0.0
                 ]
             }, 
             {
                 "__tuple__": true, 
                 "items": [
-                    0.9, 
-                    0.9, 
-                    0.9
+                    0.0, 
+                    0.0, 
+                    90.0
                 ]
             }, 
-            1.0, 
-            "origin", 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            0.3, 
+            "\u81ea\u5b9a\u4e49_\u6295\u5c04\u72691", 
+            true, 
+            true, 
+            0, 
+            false
+        ], 
+        [
+            104961, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    90.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            0.3, 
+            "\u81ea\u5b9a\u4e49_\u6295\u5c04\u72692", 
             true, 
             true, 
             0, 
@@ -56,7 +89,7 @@
     }, 
     "influence_rng": 0, 
     "is_influence_self": true, 
-    "key": 134280151, 
+    "key": 134282304, 
     "kv": {}, 
     "layer_change_of_cover": 1, 
     "layer_max": 1, 
@@ -75,12 +108,12 @@
         ]
     }, 
     "material_color_intensity": 0, 
-    "model": 200361, 
+    "model": 204367, 
     "modifier_cover_type": 1, 
     "modifier_effect": 2, 
-    "modifier_icon": 134233830, 
+    "modifier_icon": 134238689, 
     "modifier_type": 1, 
-    "name": -842605453, 
+    "name": -1759290370, 
     "same_origin_cover": true, 
     "shield_change_of_cover": 2, 
     "shield_type": 1, 
@@ -97,5 +130,5 @@
     }, 
     "target_allow": 1, 
     "time_change_of_cover": 1, 
-    "uid": "134280151"
+    "uid": "134282304"
 }

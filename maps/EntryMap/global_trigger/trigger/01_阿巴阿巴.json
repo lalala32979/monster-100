@@ -67,7 +67,7 @@
                                                             ], 
                                                             "condition_type": "BOOL_COMPARE", 
                                                             "element_id": 1410441218000060, 
-                                                            "enable": true
+                                                            "enable": false
                                                         }
                                                     ], 
                                                     "sub_type": 1
@@ -908,6 +908,46 @@
                     "op_arg_enable": [
                         false
                     ]
+                }, 
+                {
+                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
+                    "args_list": [
+                        {
+                            "arg_type": 100175, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "UNIT_ENTITY", 
+                                                        "怪物"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 11
+                                        }
+                                    ], 
+                                    "sub_type": "UNIT_ENTITY_POINT"
+                                }
+                            ], 
+                            "sub_type": "ANY_VAR_TO_STR"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 389267461000141, 
+                    "enable": true
                 }
             ], 
             "call_enabled": true, 

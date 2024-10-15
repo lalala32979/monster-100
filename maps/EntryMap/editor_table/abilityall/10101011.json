@@ -5,16 +5,16 @@
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
-            "4.5"
+            "(ability_cast_range*100 * 2)/100"
         ]
     }, 
     "ability_build_subtype": 1, 
-    "ability_bw_point": 0.71, 
+    "ability_bw_point": 1.6, 
     "ability_cast_point": 0.0, 
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "2.5"
+            "16.0"
         ]
     }, 
     "ability_cast_type": 1, 
@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.57, 
+    "ability_prepare_time": 1.21, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [
@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "1.5"
+            "3.0"
         ]
     }, 
     "collection_animation": "", 
@@ -167,18 +167,6 @@
     "is_meele": false, 
     "key": 10101011, 
     "kv": {
-        "\u53d7\u51fb\u58f0\u97f3": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 69, 
-            "key": "\u53d7\u51fb\u58f0\u97f3", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "show_in_attr": true, 
-            "sort": 4, 
-            "type": 11, 
-            "value": 134261608
-        }, 
         "\u53d7\u51fb\u7279\u6548\u6302\u63a5\u70b9": {
             "annotation": "", 
             "desc": "", 
@@ -187,7 +175,7 @@
             "prop_cls": "PText", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 2, 
+            "sort": 1, 
             "type": 0, 
             "value": "hit_point"
         }, 
@@ -199,9 +187,9 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 1, 
+            "sort": 9, 
             "type": 15, 
-            "value": 103277
+            "value": 105078
         }, 
         "\u53d7\u51fb\u7279\u6548\u7f29\u653e": {
             "annotation": "", 
@@ -211,33 +199,57 @@
             "prop_cls": "PFloat", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 3, 
+            "sort": 2, 
             "type": 1, 
             "value": 1.0
         }, 
-        "\u5f53\u524d\u653b\u51fb\u52a8\u753b\u5e8f\u53f7": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 1, 
-            "key": "\u5f53\u524d\u653b\u51fb\u52a8\u753b\u5e8f\u53f7", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "show_in_attr": true, 
-            "sort": 6, 
-            "type": 2, 
-            "value": 1
-        }, 
-        "\u653b\u51fb\u52a8\u753b1": {
+        "\u5f39\u9053\u6302\u63a5\u70b91": {
             "annotation": "", 
             "desc": "", 
             "etype": 0, 
-            "key": "\u653b\u51fb\u52a8\u753b1", 
+            "key": "\u5f39\u9053\u6302\u63a5\u70b91", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 4, 
+            "type": 0, 
+            "value": "\u81ea\u5b9a\u4e49_\u6295\u5c04\u72691"
+        }, 
+        "\u5f39\u9053\u6302\u63a5\u70b92": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "\u5f39\u9053\u6302\u63a5\u70b92", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 5, 
+            "type": 0, 
+            "value": "\u81ea\u5b9a\u4e49_\u6295\u5c04\u72692"
+        }, 
+        "\u5f39\u9053\u7c7b\u578b": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 31, 
+            "key": "\u5f39\u9053\u7c7b\u578b", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 7, 
+            "type": 9, 
+            "value": 134238570
+        }, 
+        "\u653b\u51fb\u52a8\u753b": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "\u653b\u51fb\u52a8\u753b", 
             "prop_cls": "PText", 
             "remark": "", 
             "show_in_attr": true, 
             "sort": 0, 
             "type": 0, 
-            "value": "attack1"
+            "value": "skill2"
         }, 
         "\u653b\u51fb\u52a8\u753b2": {
             "annotation": "", 
@@ -247,9 +259,33 @@
             "prop_cls": "PText", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 5, 
+            "sort": 3, 
             "type": 0, 
             "value": "attack2"
+        }, 
+        "\u65bd\u6cd5\u7279\u6548": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 46, 
+            "key": "\u65bd\u6cd5\u7279\u6548", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 6, 
+            "type": 8, 
+            "value": 134282304
+        }, 
+        "\u96c6\u4e2d\u5730\u9762\u7279\u6548": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "\u96c6\u4e2d\u5730\u9762\u7279\u6548", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 8, 
+            "type": 15, 
+            "value": 102587
         }
     }, 
     "magicbook_list": {

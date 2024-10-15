@@ -451,7 +451,7 @@
                     "args_list": [], 
                     "element_id": 1736433666000001, 
                     "enable": true, 
-                    "event_type": "ABILITY_PS_START"
+                    "event_type": "ABILITY_PS_END"
                 }
             ], 
             "group_id": 10101003, 
@@ -1142,7 +1142,7 @@
                     "args_list": [], 
                     "element_id": 2071953409000001, 
                     "enable": true, 
-                    "event_type": "ABILITY_SP_END"
+                    "event_type": "ABILITY_CST_END"
                 }
             ], 
             "group_id": 10101003, 
