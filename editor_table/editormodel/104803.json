@@ -1,9 +1,9 @@
 {
-    "describe": 35859355, 
+    "describe": 817224463, 
     "editor_res": false, 
-    "key": 104807, 
-    "model_id": 500085, 
-    "name": -1156828207, 
+    "key": 104803, 
+    "model_id": 500082, 
+    "name": 82225331, 
     "offical_tags": {
         "__tuple__": true, 
         "items": [
@@ -13,10 +13,10 @@
             "code_Fat", 
             "code_Devil", 
             "code_Frog", 
-            "code_Blue"
+            "code_Green"
         ]
     }, 
-    "preview_icon": "UP1ModelPreview/104807", 
+    "preview_icon": "UP1ModelPreview/104803", 
     "release_delete": {
         "__tuple__": true, 
         "items": []
@@ -236,6 +236,6 @@
         }
     }, 
     "source": "code_Source_Import", 
-    "uid": "editor_model_104807", 
+    "uid": "editor_model_104803", 
     "yaw": -1.5707963267948966
 }
