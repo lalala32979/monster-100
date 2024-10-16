@@ -33,6 +33,21 @@
             "op_arg_enable": [
                 false
             ]
+        }, 
+        {
+            "action_type": "OPEN_OR_CLOSE_TIME_SPEED", 
+            "args_list": [
+                {
+                    "arg_type": 100001, 
+                    "args_list": [
+                        false
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 702599169000008, 
+            "enable": true
         }
     ], 
     "call_enabled": true, 

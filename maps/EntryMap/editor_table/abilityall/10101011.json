@@ -5,7 +5,7 @@
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
-            "(ability_cast_range*100 * 2)/100"
+            "(ability_cast_range*100*2)/100"
         ]
     }, 
     "ability_build_subtype": 1, 
@@ -167,6 +167,18 @@
     "is_meele": false, 
     "key": 10101011, 
     "kv": {
+        "\u51fb\u4e2d\u5730\u9762\u7279\u6548": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "\u51fb\u4e2d\u5730\u9762\u7279\u6548", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 8, 
+            "type": 15, 
+            "value": 102587
+        }, 
         "\u53d7\u51fb\u7279\u6548\u6302\u63a5\u70b9": {
             "annotation": "", 
             "desc": "", 
@@ -274,18 +286,6 @@
             "sort": 6, 
             "type": 8, 
             "value": 134282304
-        }, 
-        "\u96c6\u4e2d\u5730\u9762\u7279\u6548": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 27, 
-            "key": "\u96c6\u4e2d\u5730\u9762\u7279\u6548", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "show_in_attr": true, 
-            "sort": 8, 
-            "type": 15, 
-            "value": 102587
         }
     }, 
     "magicbook_list": {

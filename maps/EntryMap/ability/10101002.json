@@ -349,7 +349,7 @@
                                         {
                                             "arg_type": 100064, 
                                             "args_list": [
-                                                0
+                                                1
                                             ], 
                                             "sub_type": 1
                                         }, 
@@ -357,25 +357,26 @@
                                             "arg_type": 100000, 
                                             "args_list": [
                                                 {
-                                                    "arg_type": 100116, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100006, 
-                                                            "args_list": [], 
-                                                            "sub_type": "ABILITY_OWNER"
-                                                        }
-                                                    ], 
-                                                    "sub_type": "GET_UNIT_KEY_OF_UNIT"
+                                                    "arg_type": 100006, 
+                                                    "args_list": [], 
+                                                    "sub_type": "ABILITY_OWNER"
                                                 }, 
                                                 {
-                                                    "arg_type": 100043, 
+                                                    "arg_type": 100301, 
                                                     "args_list": [
-                                                        "attack_phy"
+                                                        "ATTR_RESULT"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100042, 
+                                                    "args_list": [
+                                                        "attack_mag"
                                                     ], 
                                                     "sub_type": 1
                                                 }
                                             ], 
-                                            "sub_type": "GET_UNIT_KEY_ATTR"
+                                            "sub_type": "GET_UNIT_ATTR"
                                         }, 
                                         {
                                             "arg_type": 100001, 

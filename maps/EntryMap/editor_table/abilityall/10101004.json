@@ -5,7 +5,7 @@
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
-            "4.5"
+            "(ability_cast_range*100 * 2)/100"
         ]
     }, 
     "ability_build_subtype": 1, 
@@ -14,7 +14,7 @@
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "2.5"
+            "1.6"
         ]
     }, 
     "ability_cast_type": 1, 
@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.84, 
+    "ability_prepare_time": 0.86, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [
@@ -223,7 +223,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 6, 
+            "sort": 5, 
             "type": 2, 
             "value": 1
         }, 
@@ -238,18 +238,6 @@
             "sort": 0, 
             "type": 0, 
             "value": "attack1"
-        }, 
-        "\u653b\u51fb\u52a8\u753b2": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 0, 
-            "key": "\u653b\u51fb\u52a8\u753b2", 
-            "prop_cls": "PText", 
-            "remark": "", 
-            "show_in_attr": true, 
-            "sort": 5, 
-            "type": 0, 
-            "value": "attack2"
         }
     }, 
     "magicbook_list": {

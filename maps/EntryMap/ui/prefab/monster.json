@@ -87,7 +87,7 @@
                                 255
                             ]
                         }, 
-                        "font_min_size": 15, 
+                        "font_min_size": 16, 
                         "hover_child": "", 
                         "italics": false, 
                         "label_effect": {
@@ -111,13 +111,13 @@
                         "name": "name", 
                         "opacity": 1.0, 
                         "open_adapter": false, 
-                        "over_pattern": false, 
+                        "over_pattern": 2, 
                         "pos_data": {
                             "__tuple__": true, 
                             "items": [
-                                136.2001, 
+                                117.8001, 
                                 44.0, 
-                                61.3514, 
+                                53.0631, 
                                 50.0, 
                                 0, 
                                 0
@@ -138,7 +138,7 @@
                         "size": {
                             "__tuple__": true, 
                             "items": [
-                                160.0, 
+                                127.19999951124191, 
                                 40.0
                             ]
                         }, 

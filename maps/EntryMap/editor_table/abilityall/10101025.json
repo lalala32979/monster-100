@@ -5,16 +5,16 @@
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
-            "4.5"
+            "(ability_cast_range*100*2)/100"
         ]
     }, 
     "ability_build_subtype": 1, 
-    "ability_bw_point": 1.87, 
+    "ability_bw_point": 1.6, 
     "ability_cast_point": 0.0, 
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "2.5"
+            "2.2"
         ]
     }, 
     "ability_cast_type": 1, 
@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.5, 
+    "ability_prepare_time": 0.53, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [
@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "2.6"
+            "1.2"
         ]
     }, 
     "collection_animation": "", 
@@ -200,7 +200,7 @@
             "show_in_attr": true, 
             "sort": 1, 
             "type": 15, 
-            "value": 103277
+            "value": 104322
         }, 
         "\u53d7\u51fb\u7279\u6548\u7f29\u653e": {
             "annotation": "", 

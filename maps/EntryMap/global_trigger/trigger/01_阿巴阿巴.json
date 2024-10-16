@@ -648,95 +648,280 @@
                     "fake_op": []
                 }, 
                 {
-                    "action_type": "SET_VARIABLE", 
+                    "action_type": "IF_THEN_ELSE", 
                     "args_list": [
                         {
-                            "arg_type": 100006, 
+                            "arg_type": 100021, 
                             "args_list": [
                                 {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "UNIT_ENTITY", 
-                                        "怪物"
-                                    ]
-                                }
-                            ], 
-                            "sub_type": 11
-                        }, 
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100116, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100011, 
-                                            "args_list": [
-                                                "6dbefa93-94f8-4992-8100-c144398d4191"
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100002, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100003, 
-                                                    "args_list": [], 
-                                                    "sub_type": "GET_STR_FROM_EVENT"
-                                                }
-                                            ], 
-                                            "sub_type": "STR_TO_INT"
-                                        }, 
-                                        {
-                                            "arg_type": 100003, 
-                                            "args_list": [
-                                                "ID"
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "sub_type": "GET_UNIT_NAME_TABLE_VAR_ND"
-                                }, 
-                                {
-                                    "arg_type": 100004, 
-                                    "args_list": [
-                                        10003
-                                    ], 
-                                    "sub_type": 1
-                                }, 
-                                {
-                                    "arg_type": 100225, 
                                     "args_list": [
                                         {
                                             "arg_type": 100000, 
                                             "args_list": [
-                                                270.0
+                                                {
+                                                    "arg_type": 100116, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100011, 
+                                                            "args_list": [
+                                                                "6dbefa93-94f8-4992-8100-c144398d4191"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100003, 
+                                                                    "args_list": [], 
+                                                                    "sub_type": "GET_STR_FROM_EVENT"
+                                                                }
+                                                            ], 
+                                                            "sub_type": "STR_TO_INT"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100003, 
+                                                            "args_list": [
+                                                                "ID"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_UNIT_NAME_TABLE_VAR_ND"
+                                                }, 
+                                                {
+                                                    "arg_type": 100043, 
+                                                    "args_list": [
+                                                        "ori_speed"
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "sub_type": "GET_UNIT_KEY_ATTR"
+                                        }, 
+                                        {
+                                            "arg_type": 100015, 
+                                            "args_list": [
+                                                "<="
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100000, 
+                                            "args_list": [
+                                                300.0
                                             ], 
                                             "sub_type": 1
                                         }
                                     ], 
-                                    "sub_type": "GET_ANGLE_BY_FLOAT"
-                                }, 
-                                {
-                                    "arg_type": 100025, 
-                                    "args_list": [
-                                        31
-                                    ], 
-                                    "sub_type": 1
+                                    "condition_type": "FLOAT_COMPARE", 
+                                    "element_id": 389267461000150, 
+                                    "enable": true
                                 }
                             ], 
-                            "op_arg": [
-                                null
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "UNIT_ENTITY", 
+                                                        "怪物"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 11
+                                        }, 
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100116, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100011, 
+                                                            "args_list": [
+                                                                "6dbefa93-94f8-4992-8100-c144398d4191"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100003, 
+                                                                    "args_list": [], 
+                                                                    "sub_type": "GET_STR_FROM_EVENT"
+                                                                }
+                                                            ], 
+                                                            "sub_type": "STR_TO_INT"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100003, 
+                                                            "args_list": [
+                                                                "ID"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_UNIT_NAME_TABLE_VAR_ND"
+                                                }, 
+                                                {
+                                                    "arg_type": 100004, 
+                                                    "args_list": [
+                                                        10007
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100225, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                270.0
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_ANGLE_BY_FLOAT"
+                                                }, 
+                                                {
+                                                    "arg_type": 100025, 
+                                                    "args_list": [
+                                                        31
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "op_arg": [
+                                                null
+                                            ], 
+                                            "op_arg_enable": [
+                                                false
+                                            ], 
+                                            "sub_type": "CREATE_UNIT_NEW"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 389267461000193, 
+                                    "enable": true
+                                }
                             ], 
-                            "op_arg_enable": [
-                                false
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [
+                                {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                {
+                                                    "__tuple__": true, 
+                                                    "items": [
+                                                        "UNIT_ENTITY", 
+                                                        "怪物"
+                                                    ]
+                                                }
+                                            ], 
+                                            "sub_type": 11
+                                        }, 
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                {
+                                                    "arg_type": 100116, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100011, 
+                                                            "args_list": [
+                                                                "6dbefa93-94f8-4992-8100-c144398d4191"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100003, 
+                                                                    "args_list": [], 
+                                                                    "sub_type": "GET_STR_FROM_EVENT"
+                                                                }
+                                                            ], 
+                                                            "sub_type": "STR_TO_INT"
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100003, 
+                                                            "args_list": [
+                                                                "ID"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_UNIT_NAME_TABLE_VAR_ND"
+                                                }, 
+                                                {
+                                                    "arg_type": 100004, 
+                                                    "args_list": [
+                                                        10003
+                                                    ], 
+                                                    "sub_type": 1
+                                                }, 
+                                                {
+                                                    "arg_type": 100225, 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                270.0
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "sub_type": "GET_ANGLE_BY_FLOAT"
+                                                }, 
+                                                {
+                                                    "arg_type": 100025, 
+                                                    "args_list": [
+                                                        31
+                                                    ], 
+                                                    "sub_type": 1
+                                                }
+                                            ], 
+                                            "op_arg": [
+                                                null
+                                            ], 
+                                            "op_arg_enable": [
+                                                false
+                                            ], 
+                                            "sub_type": "CREATE_UNIT_NEW"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 389267461000008, 
+                                    "enable": true
+                                }
                             ], 
-                            "sub_type": "CREATE_UNIT_NEW"
+                            "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 389267461000008, 
-                    "enable": true
+                    "element_id": 389267461000140, 
+                    "enable": true, 
+                    "fake_op": [
+                        2
+                    ]
                 }, 
                 {
                     "action_type": "SET_VARIABLE", 
@@ -908,46 +1093,6 @@
                     "op_arg_enable": [
                         false
                     ]
-                }, 
-                {
-                    "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
-                    "args_list": [
-                        {
-                            "arg_type": 100175, 
-                            "args_list": [
-                                3
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100003, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100004, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100006, 
-                                            "args_list": [
-                                                {
-                                                    "__tuple__": true, 
-                                                    "items": [
-                                                        "UNIT_ENTITY", 
-                                                        "怪物"
-                                                    ]
-                                                }
-                                            ], 
-                                            "sub_type": 11
-                                        }
-                                    ], 
-                                    "sub_type": "UNIT_ENTITY_POINT"
-                                }
-                            ], 
-                            "sub_type": "ANY_VAR_TO_STR"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 389267461000141, 
-                    "enable": true
                 }
             ], 
             "call_enabled": true, 
