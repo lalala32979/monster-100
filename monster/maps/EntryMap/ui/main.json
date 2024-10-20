@@ -223,6 +223,135 @@
             }, 
             "type": 10, 
             "uid": "48d9321a-5367-4406-b7e2-7a18e6ff0b59"
+        }, 
+        {
+            "anchor": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "5fcd93ba-96af-4009-945c-81f68833bc3f", 
+                            "ease_type": 0, 
+                            "name": "BackToHall_1", 
+                            "open_timeline": true, 
+                            "type": 5
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "button_2_0", 
+                    "sound_id": null, 
+                    "type": 28
+                }
+            ], 
+            "name": "button_2", 
+            "normal_picture": 108431, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0, 
+                    100.0, 
+                    100.0, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    64.0, 
+                    64.0
+                ]
+            }, 
+            "type": 1, 
+            "uid": "5fcd93ba-96af-4009-945c-81f68833bc3f"
+        }, 
+        {
+            "anchor": {
+                "__tuple__": true, 
+                "items": [
+                    1.0, 
+                    1.0
+                ]
+            }, 
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "74f9799d-02f2-4cfd-83e9-57b6d89d7ce3", 
+                            "ease_type": 0, 
+                            "name": "Show_1", 
+                            "open_timeline": true, 
+                            "type": 2
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "button_2_1_0", 
+                    "sound_id": null, 
+                    "type": 30
+                }
+            ], 
+            "name": "button_2_1", 
+            "normal_picture": 101187, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1856.0006, 
+                    1080.0, 
+                    96.6667, 
+                    100.0, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    64.0, 
+                    64.0
+                ]
+            }, 
+            "type": 1, 
+            "uid": "0da10646-4653-437a-aaff-0c8bfffbcae6"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "setting_panel_1", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50.0, 
+                    50.0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "type": 27, 
+            "uid": "74f9799d-02f2-4cfd-83e9-57b6d89d7ce3", 
+            "visible": false
         }
     ], 
     "name": "main", 

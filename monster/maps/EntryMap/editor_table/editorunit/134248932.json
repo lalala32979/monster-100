@@ -93,6 +93,7 @@
     "defense_mag_grow": 1.0, 
     "defense_phy": 30.0, 
     "defense_phy_grow": 3.0, 
+    "desc": 29367833, 
     "description": 29367833, 
     "destroy_after_die": true, 
     "die_anim": "die", 

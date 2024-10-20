@@ -9,7 +9,7 @@
         ]
     }, 
     "ability_build_subtype": 1, 
-    "ability_bw_point": 1.87, 
+    "ability_bw_point": 1.05, 
     "ability_cast_point": 0.0, 
     "ability_cast_range": {
         "__tuple__": true, 
@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.5, 
+    "ability_prepare_time": 0.73, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [
@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "2.6"
+            "1.78"
         ]
     }, 
     "collection_animation": "", 
@@ -174,7 +174,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 4, 
+            "sort": 3, 
             "type": 11, 
             "value": 134261608
         }, 
@@ -186,7 +186,7 @@
             "prop_cls": "PText", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 2, 
+            "sort": 1, 
             "type": 0, 
             "value": "hit_point"
         }, 
@@ -198,9 +198,9 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 1, 
+            "sort": 5, 
             "type": 15, 
-            "value": 103277
+            "value": 104575
         }, 
         "\u53d7\u51fb\u7279\u6548\u7f29\u653e": {
             "annotation": "", 
@@ -210,7 +210,7 @@
             "prop_cls": "PFloat", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 3, 
+            "sort": 2, 
             "type": 1, 
             "value": 1.0
         }, 
@@ -222,7 +222,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 6, 
+            "sort": 4, 
             "type": 2, 
             "value": 1
         }, 
@@ -237,18 +237,6 @@
             "sort": 0, 
             "type": 0, 
             "value": "attack1"
-        }, 
-        "\u653b\u51fb\u52a8\u753b2": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 0, 
-            "key": "\u653b\u51fb\u52a8\u753b2", 
-            "prop_cls": "PText", 
-            "remark": "", 
-            "show_in_attr": true, 
-            "sort": 5, 
-            "type": 0, 
-            "value": "attack2"
         }
     }, 
     "magicbook_list": {
