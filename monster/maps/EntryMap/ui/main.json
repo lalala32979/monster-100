@@ -253,20 +253,23 @@
                     "type": 28
                 }
             ], 
+            "hover_status_added": true, 
             "name": "button_2", 
             "normal_picture": 108431, 
             "pos_data": {
                 "__tuple__": true, 
                 "items": [
-                    1920.0, 
-                    1080.0, 
-                    100.0, 
-                    100.0, 
+                    1904.5325, 
+                    1062.9997, 
+                    99.1944, 
+                    98.4259, 
                     1, 
                     1
                 ]
             }, 
             "prefab_sub_key": null, 
+            "press_picture": 108429, 
+            "pressed_status_added": true, 
             "scene_ui_name": null, 
             "size": {
                 "__tuple__": true, 
@@ -275,6 +278,7 @@
                     64.0
                 ]
             }, 
+            "suspend_picture": 108430, 
             "type": 1, 
             "uid": "5fcd93ba-96af-4009-945c-81f68833bc3f"
         }, 
@@ -308,14 +312,14 @@
                 }
             ], 
             "name": "button_2_1", 
-            "normal_picture": 101187, 
+            "normal_picture": 134054, 
             "pos_data": {
                 "__tuple__": true, 
                 "items": [
-                    1856.0006, 
-                    1080.0, 
-                    96.6667, 
-                    100.0, 
+                    1838.4672, 
+                    1069.0002, 
+                    95.7535, 
+                    98.9815, 
                     1, 
                     1
                 ]
@@ -325,7 +329,7 @@
             "size": {
                 "__tuple__": true, 
                 "items": [
-                    64.0, 
+                    76.8, 
                     64.0
                 ]
             }, 

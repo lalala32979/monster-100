@@ -946,30 +946,6 @@
  {
   "__tuple__": true, 
   "items": [
-   1, 
-   "\u5de8\u4eba", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   2, 
-   "\u708e\u9b54", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   3, 
-   "\u91ce\u732a", 
-   4
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
    10007, 
    "\u602a\u7269\u70b9\u8fd1", 
    1024

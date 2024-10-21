@@ -41,7 +41,7 @@
     "billboard_scale_y": 1, 
     "blood_bar": 65537, 
     "blood_show_type": 0, 
-    "body_size": 1.8, 
+    "body_size": 5.0, 
     "build_ignore_dyn_collision": false, 
     "build_res_cost_list": {
         "__tuple__": true, 
@@ -176,7 +176,7 @@
     "name": 1312287846, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 3.4, 
+    "ori_speed": 0.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 

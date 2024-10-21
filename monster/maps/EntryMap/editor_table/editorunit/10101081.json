@@ -41,7 +41,7 @@
     "billboard_scale_y": 1, 
     "blood_bar": 65537, 
     "blood_show_type": 0, 
-    "body_size": 1.8, 
+    "body_size": 1.2, 
     "build_ignore_dyn_collision": false, 
     "build_res_cost_list": {
         "__tuple__": true, 
@@ -176,7 +176,7 @@
     "name": 308084629, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 3.4, 
+    "ori_speed": 4.6, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 
@@ -316,7 +316,6 @@
     "speed_ratio_in_turn": 1, 
     "standard_walk_rate": 40.0, 
     "start_rft": 1.0, 
-    "state_init": "", 
     "state_list": {
         "__tuple__": true, 
         "items": []
