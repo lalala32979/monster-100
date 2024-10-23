@@ -5,7 +5,7 @@
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
-            "15.0"
+            "13.0"
         ]
     }, 
     "ability_build_subtype": 1, 
@@ -14,7 +14,7 @@
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "10.0"
+            "8.0"
         ]
     }, 
     "ability_cast_type": 1, 

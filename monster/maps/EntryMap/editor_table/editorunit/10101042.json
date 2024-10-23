@@ -176,7 +176,7 @@
     "name": 2142363908, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 3.4, 
+    "ori_speed": 2.4, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 
@@ -316,7 +316,6 @@
     "speed_ratio_in_turn": 1, 
     "standard_walk_rate": 40.0, 
     "start_rft": 1.0, 
-    "state_init": "", 
     "state_list": {
         "__tuple__": true, 
         "items": []
