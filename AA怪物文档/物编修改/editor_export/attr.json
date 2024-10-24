@@ -1,0 +1,39 @@
+{
+    "ps": 1,
+    "c": [],
+    "p": [
+        [
+            "strength",
+            {
+                "k": "strength",
+                "d": "\u529b\u91cf",
+                "m": []
+            }
+        ],
+        [
+            "agility",
+            {
+                "k": "agility",
+                "d": "\u654f\u6377",
+                "m": []
+            }
+        ],
+        [
+            "intelligence",
+            {
+                "k": "intelligence",
+                "d": "\u667a\u529b",
+                "m": []
+            }
+        ],
+        [
+            "main",
+            {
+                "k": "main",
+                "d": "\u4e3b\u5c5e\u6027",
+                "m": []
+            }
+        ]
+    ],
+    "b": []
+}
