@@ -1,0 +1,364 @@
+{
+    "describe": 475365197, 
+    "editor_res": false, 
+    "key": 100599, 
+    "model_id": 100599, 
+    "name": -610749509, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_Chinese style", 
+            "code_Monster", 
+            "code_Elite", 
+            "code_Strong", 
+            "code_Troll", 
+            "code_Blue"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.45, 
+            1.75
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/100599", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_Role,code_Monster", 
+    "select_effect_scale": 10.0, 
+    "size": 0.09, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "bone11", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack2": {
+            "__tuple__": true, 
+            "items": [
+                "attack2", 
+                "bone16", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "blood": {
+            "__tuple__": true, 
+            "items": [
+                "blood", 
+                "bip001 spine1", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "centroid": {
+            "__tuple__": true, 
+            "items": [
+                "centroid", 
+                "Scene Root", 
+                0.0, 
+                2.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "bone04", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "bone18", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_root": {
+            "__tuple__": true, 
+            "items": [
+                "fx_root", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_self_01": {
+            "__tuple__": true, 
+            "items": [
+                "fx_self_01", 
+                "bone02", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_self_02": {
+            "__tuple__": true, 
+            "items": [
+                "fx_self_02", 
+                "bone01", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_self_03": {
+            "__tuple__": true, 
+            "items": [
+                "fx_self_03", 
+                "bone14", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_self_04": {
+            "__tuple__": true, 
+            "items": [
+                "fx_self_04", 
+                "bone15", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_self_05": {
+            "__tuple__": true, 
+            "items": [
+                "fx_self_05", 
+                "bone17", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_self_06": {
+            "__tuple__": true, 
+            "items": [
+                "fx_self_06", 
+                "bone20", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_self_07": {
+            "__tuple__": true, 
+            "items": [
+                "fx_self_07", 
+                "bone16", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_skill_20001": {
+            "__tuple__": true, 
+            "items": [
+                "fx_skill_20001", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "bone11", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "bone16", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "bone02", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "bone06", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "shadow": {
+            "__tuple__": true, 
+            "items": [
+                "shadow", 
+                "", 
+                0.0, 
+                0.02, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "bone02", 
+                -0.2, 
+                0.1, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                0.198, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                0.653, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_100599"
+}

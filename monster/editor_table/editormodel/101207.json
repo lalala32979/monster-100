@@ -24,7 +24,7 @@
     }, 
     "res_identify": "all", 
     "res_type": "code_Role,code_Monster", 
-    "select_effect_scale": 1.6, 
+    "select_effect_scale": 10.0, 
     "size": 0.14, 
     "socket_info": {
         "attack": {

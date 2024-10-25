@@ -1,0 +1,305 @@
+{
+    "describe": -908196046, 
+    "editor_res": false, 
+    "key": 100601, 
+    "model_id": 100601, 
+    "name": -1663369883, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_Chinese style", 
+            "code_Monster", 
+            "code_Elite", 
+            "code_Strong", 
+            "code_Troll", 
+            "code_Red"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/100601", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_Role,code_Monster", 
+    "select_effect_scale": 10.0, 
+    "size": 0.09, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "bone06(mirrored)", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack2": {
+            "__tuple__": true, 
+            "items": [
+                "attack2", 
+                "bone06", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "blood": {
+            "__tuple__": true, 
+            "items": [
+                "blood", 
+                "bone09", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "centroid": {
+            "__tuple__": true, 
+            "items": [
+                "centroid", 
+                "bone09", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "bone02(mirrored)", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "bone02", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx__self_01_2_f": {
+            "__tuple__": true, 
+            "items": [
+                "fx__self_01_2_f", 
+                "bone06", 
+                0.0441626358032, 
+                -0.09601811409, 
+                0.0709187173843, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx__self_01_2_l": {
+            "__tuple__": true, 
+            "items": [
+                "fx__self_01_2_l", 
+                "bone06(mirrored)", 
+                0.0109617614746, 
+                -0.0944515323639, 
+                0.0846327209473, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_root": {
+            "__tuple__": true, 
+            "items": [
+                "fx_root", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_self_01_1": {
+            "__tuple__": true, 
+            "items": [
+                "fx_self_01_1", 
+                "bone09", 
+                -0.00456355690956, 
+                0.0896990585327, 
+                -0.000356518030167, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "fx_self_03": {
+            "__tuple__": true, 
+            "items": [
+                "fx_self_03", 
+                "", 
+                0.0, 
+                0.0243009996414, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "bone06(mirrored)", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "bone06", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "bone11", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "bone09", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "shadow": {
+            "__tuple__": true, 
+            "items": [
+                "shadow", 
+                "", 
+                0.0, 
+                0.02, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "bone11", 
+                -0.2, 
+                0.1, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                0.225, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "bone11", 
+                0.0, 
+                0.563, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_100601"
+}

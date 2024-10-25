@@ -23,7 +23,7 @@
     }, 
     "res_identify": "all", 
     "res_type": "code_Role,code_Boss", 
-    "select_effect_scale": 1.0, 
+    "select_effect_scale": 1.6, 
     "size": 1.0, 
     "socket_info": {
         "buff": {

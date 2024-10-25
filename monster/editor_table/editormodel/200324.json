@@ -17,6 +17,13 @@
             "code_Blue"
         ]
     }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            1.3, 
+            2.0
+        ]
+    }, 
     "preview_icon": "UP1ModelPreview/200324", 
     "release_delete": {
         "__tuple__": true, 
@@ -24,7 +31,7 @@
     }, 
     "res_identify": "all", 
     "res_type": "code_Role,code_Boss", 
-    "select_effect_scale": 1.0, 
+    "select_effect_scale": 1.2, 
     "size": 1.0, 
     "socket_info": {
         "foot1": {

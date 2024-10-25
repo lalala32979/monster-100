@@ -1,0 +1,228 @@
+{
+    "describe": -1078714138, 
+    "editor_res": false, 
+    "key": 200290, 
+    "model_id": 501010, 
+    "name": 95433705, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Monster", 
+            "code_Magical", 
+            "code_Strong", 
+            "code_Flying", 
+            "code_Orc", 
+            "code_Eagle", 
+            "code_Purple"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/200290", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_Role,code_Monster", 
+    "select_effect_scale": 0.8, 
+    "size": 1.0, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "biped_bone01", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack2": {
+            "__tuple__": true, 
+            "items": [
+                "attack2", 
+                "biped_bone08", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "blood": {
+            "__tuple__": true, 
+            "items": [
+                "blood", 
+                "bip001-pelvis", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "centroid": {
+            "__tuple__": true, 
+            "items": [
+                "centroid", 
+                "bip001-pelvis", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "bip001-l-toe12", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "bip001-l-toe11", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "biped_bone01", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "biped_bone08", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "bip001-head", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "bip001-pelvis", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "bip001-head", 
+                -0.2, 
+                0.1, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "bip001-head", 
+                0.0, 
+                5.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "bip001-head", 
+                0.0, 
+                1.7, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_200290"
+}

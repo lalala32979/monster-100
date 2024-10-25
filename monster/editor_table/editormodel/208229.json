@@ -18,6 +18,13 @@
             "\u7d2b\u8272"
         ]
     }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            1.0, 
+            2.0
+        ]
+    }, 
     "preview_icon": "UP1ModelPreview/208229", 
     "release_delete": {
         "__tuple__": true, 
@@ -25,7 +32,7 @@
     }, 
     "res_identify": "all", 
     "res_type": "code_Role,code_Boss", 
-    "select_effect_scale": 1.0, 
+    "select_effect_scale": 1.4, 
     "size": 1.0, 
     "socket_info": {
         "head": {

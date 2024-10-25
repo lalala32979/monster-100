@@ -1,0 +1,396 @@
+{
+    "describe": -919929302, 
+    "editor_res": false, 
+    "key": 101204, 
+    "model_id": 101204, 
+    "name": 12491374, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Cartoon", 
+            "code_Chinese style", 
+            "code_Monster", 
+            "code_Boss", 
+            "code_Strong", 
+            "code_Wolf", 
+            "code_Purple"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/101204", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_Role,code_Boss", 
+    "select_effect_scale": 16.0, 
+    "size": 0.14, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "bip01 l hand", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "attack2": {
+            "__tuple__": true, 
+            "items": [
+                "attack2", 
+                "bip01 r hand", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "blood": {
+            "__tuple__": true, 
+            "items": [
+                "blood", 
+                "bip01 spine1", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "centroid": {
+            "__tuple__": true, 
+            "items": [
+                "centroid", 
+                "Scene Root", 
+                0.0, 
+                1.4, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "dizzy": {
+            "__tuple__": true, 
+            "items": [
+                "dizzy", 
+                "bip01 spine2", 
+                0.00151986644603, 
+                0.132779417038, 
+                0.0223357820511, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "bip01 l foot", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "bip01 r foot", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "bip01 l hand", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "bip01 r hand", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "bip01 head", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "bip01 spine1", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "l_foot": {
+            "__tuple__": true, 
+            "items": [
+                "l_foot", 
+                "bip01 l foot", 
+                0.00104913473129, 
+                -0.010947933197, 
+                0.0279357242584, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "l_hand": {
+            "__tuple__": true, 
+            "items": [
+                "l_hand", 
+                "bip01 l hand", 
+                0.0199508333206, 
+                -0.00368809938431, 
+                0.0326062011719, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "r_foot": {
+            "__tuple__": true, 
+            "items": [
+                "r_foot", 
+                "bip01 r foot", 
+                0.0137046766281, 
+                -0.0100414907932, 
+                0.0399764537811, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "r_hand": {
+            "__tuple__": true, 
+            "items": [
+                "r_hand", 
+                "bip01 r hand", 
+                -0.0161067438126, 
+                -0.00105348587036, 
+                0.0411162948608, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "s_s": {
+            "__tuple__": true, 
+            "items": [
+                "s_s", 
+                "bip01 head", 
+                -0.000127243995667, 
+                -0.0338033103943, 
+                0.0142804431915, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sfx_01": {
+            "__tuple__": true, 
+            "items": [
+                "sfx_01", 
+                "bip01 head", 
+                -0.000127243995667, 
+                -0.0338033103943, 
+                0.0142804431915, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sfx_chest": {
+            "__tuple__": true, 
+            "items": [
+                "sfx_chest", 
+                "bip01 spine2", 
+                0.00000361816957593, 
+                0.0244976711273, 
+                0.0297001791, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sfx_head": {
+            "__tuple__": true, 
+            "items": [
+                "sfx_head", 
+                "bip01 spine2", 
+                0.0000275277462788, 
+                0.132956800461, 
+                0.044498796463, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sfx_root": {
+            "__tuple__": true, 
+            "items": [
+                "sfx_root", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "bip01 head", 
+                -0.2, 
+                0.1, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "spine": {
+            "__tuple__": true, 
+            "items": [
+                "spine", 
+                "bip01 spine1", 
+                0.00688509983593, 
+                -0.112525930405, 
+                0.0217036437988, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "target": {
+            "__tuple__": true, 
+            "items": [
+                "target", 
+                "bip01 spine2", 
+                0.000031994888559, 
+                -0.0104783630371, 
+                0.0409072637558, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                2.8, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                3.3, 
+                0.0, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "vo": {
+            "__tuple__": true, 
+            "items": [
+                "vo", 
+                "bip01 head", 
+                -0.000127243995667, 
+                -0.0338033103943, 
+                0.0142804431915, 
+                -0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_101204"
+}

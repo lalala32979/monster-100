@@ -1,0 +1,32 @@
+{
+    "describe": -397588564, 
+    "editor_res": false, 
+    "key": 208018, 
+    "model_id": 540076, 
+    "name": -1828961086, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "\u5199\u5b9e", 
+            "\u7cbe\u82f1", 
+            "\u9b54\u5e7b", 
+            "\u5f3a\u58ee", 
+            "\u6218\u58eb", 
+            "\u523a\u5ba2", 
+            "\u767d\u8272", 
+            "P8(\u897f\u65b9\u9b54\u5e7b\u7cfb\u5217)"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/208018", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_Role,code_Monster", 
+    "select_effect_scale": 1.4, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_208018"
+}
