@@ -5,9 +5,10 @@ from docx import Document
 from docx.shared import Inches
 from docx.enum.shape import WD_INLINE_SHAPE_TYPE
 from docx.shared import Cm, Inches, Pt
+from docx.enum.text import WD_BREAK
 
 # 打开 Excel 文件
-workbook = openpyxl.load_workbook('moster_data.xlsx')
+workbook = openpyxl.load_workbook('moster_data.xlsx', data_only=True)
 sheet = workbook.active
 
 type_lis = ['小怪','精英','BOSS']
@@ -44,7 +45,14 @@ for cell in sheet['A']:
         new_image_path = f'抠图128X128/{folder_name}.png'
         document.add_picture(new_image_path, width=Inches(2.0), height=Inches(2.0))
 
-        document.add_paragraph(f'近战{folder_type}，拥有较大的近战警戒/取消警戒范围(800/1400)')
+        document.add_paragraph(cell.offset(column=26).value +'\n')
+        document.add_paragraph(cell.offset(column=27).value +'\n')
+        document.add_paragraph(cell.offset(column=28).value +'\n')
+        document.add_paragraph(cell.offset(column=29).value +'\n')
+        document.add_paragraph(cell.offset(column=30).value +'\n')
+        document.add_paragraph(cell.offset(column=31).value +'\n')
+        document.add_paragraph(cell.offset(column=32).value +'\n')
+        document.add_paragraph(cell.offset(column=33).value +'\n')
 
         # 遍历所有 InlineShape 对象
         # for image in document.inline_shapes:
@@ -69,6 +77,6 @@ for cell in sheet['A']:
         # 保存 Word 文件
         document.save(f'world/{num_str}{folder_name}.docx')
         
-        count += 1
-        if count == 10:
-            break
+        # count += 1
+        # if count == 10:
+        #     break
