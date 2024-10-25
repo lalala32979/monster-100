@@ -5,7 +5,7 @@
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
-            "13.0"
+            "(ability_cast_range*100*2)/100"
         ]
     }, 
     "ability_build_subtype": 1, 
@@ -166,18 +166,6 @@
     "is_meele": false, 
     "key": 10101037, 
     "kv": {
-        "\u53d7\u51fb\u58f0\u97f3": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 69, 
-            "key": "\u53d7\u51fb\u58f0\u97f3", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "show_in_attr": true, 
-            "sort": 4, 
-            "type": 11, 
-            "value": 134261608
-        }, 
         "\u53d7\u51fb\u7279\u6548\u6302\u63a5\u70b9": {
             "annotation": "", 
             "desc": "", 

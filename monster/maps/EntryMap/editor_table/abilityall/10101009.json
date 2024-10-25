@@ -167,18 +167,6 @@
     "is_meele": false, 
     "key": 10101009, 
     "kv": {
-        "\u53d7\u51fb\u58f0\u97f3": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 69, 
-            "key": "\u53d7\u51fb\u58f0\u97f3", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "show_in_attr": true, 
-            "sort": 4, 
-            "type": 11, 
-            "value": 134261608
-        }, 
         "\u53d7\u51fb\u7279\u6548\u6302\u63a5\u70b9": {
             "annotation": "", 
             "desc": "", 
