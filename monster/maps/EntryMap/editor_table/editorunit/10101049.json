@@ -133,7 +133,7 @@
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
     "hp_max": 250.0, 
-    "hp_max_grow": 250, 
+    "hp_max_grow": 10, 
     "hp_rec": 0.0, 
     "hp_rec_grow": 1, 
     "hp_rec_percent": 0, 
