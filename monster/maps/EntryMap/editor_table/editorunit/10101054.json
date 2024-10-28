@@ -120,7 +120,7 @@
     }, 
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
-    "has_mp": true, 
+    "has_mp": false, 
     "heal_effect": 0.0, 
     "heal_effect_grow": 0.0, 
     "healing_effect": 0, 
@@ -176,7 +176,7 @@
     "name": -1362607687, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 1.5, 
+    "ori_speed": 3.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 
@@ -316,7 +316,6 @@
     "speed_ratio_in_turn": 1, 
     "standard_walk_rate": 40.0, 
     "start_rft": 1.0, 
-    "state_init": "", 
     "state_list": {
         "__tuple__": true, 
         "items": []

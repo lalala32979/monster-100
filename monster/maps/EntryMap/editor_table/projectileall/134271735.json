@@ -26,9 +26,9 @@
         {
             "__tuple__": true, 
             "items": [
-                0.6, 
-                0.6, 
-                0.6
+                1.0, 
+                1.0, 
+                1.0
             ]
         }, 
         1.0, 
@@ -92,9 +92,9 @@
         {
             "__tuple__": true, 
             "items": [
-                0.6, 
-                0.6, 
-                0.6
+                1.0, 
+                1.0, 
+                1.0
             ]
         }, 
         1.0, 
@@ -144,6 +144,7 @@
     "move_channel": 0, 
     "move_limitation": 1, 
     "name": 854800233, 
+    "poolable": false, 
     "sfx_loop": false, 
     "sound_event_list": {
         "__tuple__": true, 

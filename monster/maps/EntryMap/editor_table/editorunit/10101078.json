@@ -120,7 +120,7 @@
     }, 
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
-    "has_mp": true, 
+    "has_mp": false, 
     "heal_effect": 0.0, 
     "heal_effect_grow": 0.0, 
     "healing_effect": 0, 
