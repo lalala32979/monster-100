@@ -757,7 +757,7 @@
                         {
                             "arg_type": 100001, 
                             "args_list": [
-                                false
+                                true
                             ], 
                             "sub_type": 1
                         }

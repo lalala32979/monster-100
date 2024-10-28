@@ -48,7 +48,7 @@
                 ]
             }, 
             "hover_status_added": true, 
-            "name": "button_1", 
+            "name": "\u9690\u85cfUI", 
             "normal_color": {
                 "__tuple__": true, 
                 "items": [
@@ -152,10 +152,20 @@
             "uid": "8db76897-4ecb-4ed1-a60a-f8715015c0c3"
         }, 
         {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                140.0, 
+                140.0, 
+                0.0, 
+                1620.0
+            ], 
             "anchor": {
                 "__tuple__": true, 
                 "items": [
-                    1.0, 
+                    0.0, 
                     0.5
                 ]
             }, 
@@ -200,13 +210,14 @@
             ], 
             "event_list": [], 
             "layout_type": 1, 
-            "name": "view", 
+            "name": "\u602a\u7269\u5217\u8868", 
+            "open_adapter": true, 
             "pos_data": {
                 "__tuple__": true, 
                 "items": [
-                    1920.0806, 
+                    0.0, 
                     540.0, 
-                    100.0042, 
+                    0.0, 
                     50.0, 
                     1, 
                     1
@@ -214,6 +225,19 @@
             }, 
             "prefab_sub_key": null, 
             "scene_ui_name": null, 
+            "scroll_bar_cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    3, 
+                    5, 
+                    2, 
+                    130
+                ]
+            }, 
+            "scroll_bar_enable": true, 
+            "scroll_bar_image": 133868, 
+            "scroll_bar_scale9_enable": true, 
+            "scroll_bar_thickness": 20.0, 
             "size": {
                 "__tuple__": true, 
                 "items": [
@@ -254,7 +278,7 @@
                 }
             ], 
             "hover_status_added": true, 
-            "name": "button_2", 
+            "name": "\u9000\u51fa", 
             "normal_picture": 108431, 
             "pos_data": {
                 "__tuple__": true, 
@@ -311,7 +335,7 @@
                     "type": 30
                 }
             ], 
-            "name": "button_2_1", 
+            "name": "\u8bbe\u7f6e", 
             "normal_picture": 134054, 
             "pos_data": {
                 "__tuple__": true, 
@@ -335,6 +359,243 @@
             }, 
             "type": 1, 
             "uid": "0da10646-4653-437a-aaff-0c8bfffbcae6"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                95.62, 
+                939.62, 
+                0.0, 
+                1820.0
+            ], 
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "\u9009\u62e9\u5c0f\u602a", 
+                    "sound_id": null, 
+                    "type": 29
+                }
+            ], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "HKWeiBeiW7", 
+                    30
+                ]
+            }, 
+            "name": "\u5c0f\u602a", 
+            "normal_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    254
+                ]
+            }, 
+            "normal_font_color": {
+                "__tuple__": true, 
+                "items": [
+                    54, 
+                    50, 
+                    50, 
+                    255
+                ]
+            }, 
+            "normal_picture": 133658, 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u5c0f\u602a", 
+                    false
+                ]
+            }, 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    50.0, 
+                    962.0, 
+                    2.6042, 
+                    89.0741, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    100.0, 
+                    44.76
+                ]
+            }, 
+            "type": 1, 
+            "uid": "6d609c03-8757-4aba-9e9f-c55bbe805e74"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                95.62, 
+                939.62, 
+                100.0, 
+                1720.0
+            ], 
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "\u9009\u62e9\u7cbe\u82f1", 
+                    "sound_id": null, 
+                    "type": 29
+                }
+            ], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "HKWeiBeiW7", 
+                    30
+                ]
+            }, 
+            "name": "\u7cbe\u82f1", 
+            "normal_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    254
+                ]
+            }, 
+            "normal_font_color": {
+                "__tuple__": true, 
+                "items": [
+                    54, 
+                    50, 
+                    50, 
+                    255
+                ]
+            }, 
+            "normal_picture": 133658, 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u7cbe\u82f1", 
+                    false
+                ]
+            }, 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    150.0, 
+                    962.0, 
+                    7.8125, 
+                    89.0741, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    100.0, 
+                    44.76
+                ]
+            }, 
+            "type": 1, 
+            "uid": "ac3c7707-2d26-44d9-9403-f4cf9fa37cc4"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                95.62, 
+                939.62, 
+                200.0, 
+                1620.0
+            ], 
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "\u9009\u62e9Boss", 
+                    "sound_id": null, 
+                    "type": 29
+                }
+            ], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "HKWeiBeiW7", 
+                    30
+                ]
+            }, 
+            "name": "Boss", 
+            "normal_color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    254
+                ]
+            }, 
+            "normal_font_color": {
+                "__tuple__": true, 
+                "items": [
+                    54, 
+                    50, 
+                    50, 
+                    255
+                ]
+            }, 
+            "normal_picture": 133658, 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "Boss", 
+                    false
+                ]
+            }, 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    250.0, 
+                    962.0, 
+                    13.0208, 
+                    89.0741, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    100.0, 
+                    44.76
+                ]
+            }, 
+            "type": 1, 
+            "uid": "289b1376-a66e-4ece-a7dc-325701f65fd4"
         }, 
         {
             "children": [], 

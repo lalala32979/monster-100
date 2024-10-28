@@ -166,6 +166,18 @@
     "is_meele": false, 
     "key": 10101099, 
     "kv": {
+        "\u51fb\u4e2d\u5730\u9762\u7279\u6548": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "\u51fb\u4e2d\u5730\u9762\u7279\u6548", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 5, 
+            "type": 15, 
+            "value": 101299
+        }, 
         "\u53d7\u51fb\u7279\u6548\u6302\u63a5\u70b9": {
             "annotation": "", 
             "desc": "", 
@@ -186,7 +198,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 5, 
+            "sort": 4, 
             "type": 15, 
             "value": 105078
         }, 
@@ -210,7 +222,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 4, 
+            "sort": 3, 
             "type": 2, 
             "value": 1
         }, 

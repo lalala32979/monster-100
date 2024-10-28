@@ -162,7 +162,7 @@
     "mini_map_icon": 903952, 
     "mini_map_icon_scale": 1.0, 
     "model": 208018, 
-    "model_height": 0.0, 
+    "model_height": 0.2, 
     "model_opacity": 1, 
     "move_channel": 0, 
     "move_limitation": 1, 
@@ -316,7 +316,6 @@
     "speed_ratio_in_turn": 1, 
     "standard_walk_rate": 40.0, 
     "start_rft": 1.0, 
-    "state_init": "", 
     "state_list": {
         "__tuple__": true, 
         "items": []
