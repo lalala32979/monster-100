@@ -41,7 +41,7 @@
     "billboard_scale_y": 1, 
     "blood_bar": 65537, 
     "blood_show_type": 0, 
-    "body_size": 1.8, 
+    "body_size": 2.2, 
     "build_ignore_dyn_collision": false, 
     "build_res_cost_list": {
         "__tuple__": true, 
@@ -204,7 +204,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 250.0, 
+    "preview_billboard_health_value": 100.0, 
     "refresh_interval": 1.0, 
     "rescue_finish_return": false, 
     "rescue_seeker_distance": 3.0, 
