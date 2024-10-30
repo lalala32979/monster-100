@@ -770,6 +770,9 @@
             "\u7d22\u5f15": 1
         }, 
         "NEW_TIMER": {}, 
+        "PROJECTILE_ENTITY": {
+            "\u5f39\u9053": 0
+        }, 
         "UNIT_ENTITY": {
             "\u76ee\u6807\u5355\u4f4d": 0
         }
@@ -788,9 +791,17 @@
                 "\u7d22\u5f15", 
                 "\u7d22\u5f15"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f39\u9053", 
+                "\u5f39\u9053"
+            ]
         }
     ], 
     "variable_length_dict": {
+        "\u5f39\u9053": 0, 
         "\u76ee\u6807\u5355\u4f4d": 0, 
         "\u7d22\u5f15": 0
     }

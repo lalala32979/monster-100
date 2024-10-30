@@ -186,7 +186,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 5, 
+            "sort": 4, 
             "type": 15, 
             "value": 105078
         }, 
@@ -210,7 +210,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 4, 
+            "sort": 3, 
             "type": 2, 
             "value": 1
         }, 
@@ -225,6 +225,30 @@
             "sort": 0, 
             "type": 0, 
             "value": "attack1"
+        }, 
+        "\u653b\u51fb\u7279\u6548": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 27, 
+            "key": "\u653b\u51fb\u7279\u6548", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 6, 
+            "type": 15, 
+            "value": 103750
+        }, 
+        "\u653b\u51fb\u7279\u6548\u6302\u70b9": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 0, 
+            "key": "\u653b\u51fb\u7279\u6548\u6302\u70b9", 
+            "prop_cls": "PText", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 5, 
+            "type": 0, 
+            "value": "\u81ea\u5b9a\u4e49_\u653b\u51fb\u7279\u6548"
         }
     }, 
     "magicbook_list": {

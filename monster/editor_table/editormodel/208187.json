@@ -255,6 +255,19 @@
                 0.0, 
                 0.0
             ]
+        }, 
+        "\u81ea\u5b9a\u4e49_\u653b\u51fb\u7279\u6548": {
+            "__tuple__": true, 
+            "items": [
+                "\u81ea\u5b9a\u4e49_\u653b\u51fb\u7279\u6548", 
+                "Bone_weapon10", 
+                0.5, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
         }
     }, 
     "source": "code_Source_Import", 

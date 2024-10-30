@@ -14,7 +14,7 @@
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "2.5"
+            "12.0"
         ]
     }, 
     "ability_cast_type": 1, 
@@ -202,6 +202,18 @@
             "type": 1, 
             "value": 1.0
         }, 
+        "\u5f39\u9053\u6295\u5c04\u7269": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 31, 
+            "key": "\u5f39\u9053\u6295\u5c04\u7269", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "show_in_attr": true, 
+            "sort": 8, 
+            "type": 9, 
+            "value": 134228042
+        }, 
         "\u5f53\u524d\u653b\u51fb\u52a8\u753b\u5e8f\u53f7": {
             "annotation": "", 
             "desc": "", 
@@ -210,7 +222,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 5, 
+            "sort": 4, 
             "type": 2, 
             "value": 1
         }, 
@@ -224,7 +236,7 @@
             "show_in_attr": true, 
             "sort": 0, 
             "type": 0, 
-            "value": "attack1"
+            "value": "start"
         }, 
         "\u653b\u51fb\u7279\u6548\u6302\u63a5\u70b9": {
             "annotation": "", 
@@ -234,7 +246,7 @@
             "prop_cls": "PText", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 8, 
+            "sort": 7, 
             "type": 0, 
             "value": "\u81ea\u5b9a\u4e49_\u624b\u90e8_\u5200\u5149"
         }, 
@@ -246,7 +258,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 7, 
+            "sort": 6, 
             "type": 15, 
             "value": 103417
         }, 
@@ -258,7 +270,7 @@
             "prop_cls": "PFloat", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 6, 
+            "sort": 5, 
             "type": 1, 
             "value": 1.0
         }

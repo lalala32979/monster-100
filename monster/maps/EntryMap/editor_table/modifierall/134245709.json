@@ -10,7 +10,7 @@
     "disappear_when_dead": true, 
     "get_effect_list": [
         [
-            103750, 
+            103775, 
             {
                 "__tuple__": true, 
                 "items": [
@@ -30,13 +30,46 @@
             {
                 "__tuple__": true, 
                 "items": [
-                    1.0, 
-                    1.0, 
-                    1.0
+                    0.75, 
+                    0.75, 
+                    0.75
                 ]
             }, 
-            1.0, 
-            "\u81ea\u5b9a\u4e49_\u6b66\u5668_\u5200\u5149", 
+            0.5, 
+            "\u81ea\u5b9a\u4e49_\u653b\u51fb\u7279\u6548", 
+            true, 
+            true, 
+            0, 
+            false
+        ], 
+        [
+            103775, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    90.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.9, 
+                    0.8, 
+                    0.8
+                ]
+            }, 
+            0.5, 
+            "\u81ea\u5b9a\u4e49_\u653b\u51fb\u7279\u6548", 
             true, 
             true, 
             0, 
@@ -74,10 +107,10 @@
         ]
     }, 
     "material_color_intensity": 0, 
-    "model": 208229, 
+    "model": 202162, 
     "modifier_cover_type": 1, 
     "modifier_effect": 2, 
-    "modifier_icon": 100008, 
+    "modifier_icon": 134255242, 
     "modifier_type": 1, 
     "name": 937263530, 
     "same_origin_cover": true, 

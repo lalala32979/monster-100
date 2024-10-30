@@ -95,6 +95,54 @@
                 ]
             }, 
             "type": 1024
+        }, 
+        "10008": {
+            "id": 10008, 
+            "name": "\u73a9\u5bb6\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -8, 
+                        3416260608
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        60, 
+                        3509338112
+                    ]
+                ]
+            }, 
+            "type": 1024
+        }, 
+        "10009": {
+            "id": 10009, 
+            "name": "\u73a9\u5bb6\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -8, 
+                        4259094528
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        66, 
+                        3859906560
+                    ]
+                ]
+            }, 
+            "type": 1024
         }
     }, 
     "2048": {

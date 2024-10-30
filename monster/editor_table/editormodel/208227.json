@@ -182,6 +182,19 @@
                 0.0, 
                 0.0
             ]
+        }, 
+        "\u81ea\u5b9a\u4e49_\u653b\u51fb\u6302\u70b9": {
+            "__tuple__": true, 
+            "items": [
+                "\u81ea\u5b9a\u4e49_\u653b\u51fb\u6302\u70b9", 
+                "Bip001-Ponytail1", 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
         }
     }, 
     "source": "code_Source_Import", 
