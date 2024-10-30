@@ -17,7 +17,7 @@
     "attack_mag_grow": 0.0, 
     "attack_phy": 100, 
     "attack_phy_grow": 5.0, 
-    "attack_range": 2.4, 
+    "attack_range": 3.0, 
     "attack_range_grow": 0.0, 
     "attack_speed": 100.0, 
     "attack_speed_grow": 5.0, 
@@ -41,7 +41,7 @@
     "billboard_scale_y": 1, 
     "blood_bar": 65537, 
     "blood_show_type": 0, 
-    "body_size": 1.8, 
+    "body_size": 1.4, 
     "build_ignore_dyn_collision": false, 
     "build_res_cost_list": {
         "__tuple__": true, 
@@ -176,7 +176,7 @@
     "name": 369479098, 
     "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 2.5, 
+    "ori_speed": 3.2, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 
@@ -204,7 +204,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 250.0, 
+    "preview_billboard_health_value": 100.0, 
     "refresh_interval": 1.0, 
     "rescue_finish_return": false, 
     "rescue_seeker_distance": 3.0, 
@@ -316,7 +316,6 @@
     "speed_ratio_in_turn": 1, 
     "standard_walk_rate": 40.0, 
     "start_rft": 1.0, 
-    "state_init": "", 
     "state_list": {
         "__tuple__": true, 
         "items": []
