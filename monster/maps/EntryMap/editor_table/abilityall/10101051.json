@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.52, 
+    "ability_prepare_time": 0.76, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [
@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "0.82"
+            "1.48"
         ]
     }, 
     "collection_animation": "", 
@@ -224,7 +224,7 @@
             "show_in_attr": true, 
             "sort": 0, 
             "type": 0, 
-            "value": "attack1"
+            "value": "attack3"
         }
     }, 
     "magicbook_list": {
