@@ -188,7 +188,7 @@
             "show_in_attr": true, 
             "sort": 1, 
             "type": 15, 
-            "value": 102529
+            "value": 104552
         }, 
         "\u53d7\u51fb\u7279\u6548\u7f29\u653e": {
             "annotation": "", 
@@ -210,7 +210,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 5, 
+            "sort": 4, 
             "type": 2, 
             "value": 1
         }, 
