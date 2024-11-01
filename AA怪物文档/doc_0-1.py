@@ -45,14 +45,17 @@ for cell in sheet['A']:
         new_image_path = f'抠图128X128/{folder_name}.png'
         document.add_picture(new_image_path, width=Inches(2.0), height=Inches(2.0))
 
-        document.add_paragraph(cell.offset(column=26).value +'\n')
-        document.add_paragraph(cell.offset(column=27).value +'\n')
-        document.add_paragraph(cell.offset(column=28).value +'\n')
-        document.add_paragraph(cell.offset(column=29).value +'\n')
-        document.add_paragraph(cell.offset(column=30).value +'\n')
-        document.add_paragraph(cell.offset(column=31).value +'\n')
-        document.add_paragraph(cell.offset(column=32).value +'\n')
-        document.add_paragraph(cell.offset(column=33).value +'\n')
+        for i in range(37, 45):
+            document.add_paragraph(cell.offset(column=i).value +'\n')
+            
+        # document.add_paragraph(cell.offset(column=26).value +'\n')
+        # document.add_paragraph(cell.offset(column=27).value +'\n')
+        # document.add_paragraph(cell.offset(column=28).value +'\n')
+        # document.add_paragraph(cell.offset(column=29).value +'\n')
+        # document.add_paragraph(cell.offset(column=30).value +'\n')
+        # document.add_paragraph(cell.offset(column=31).value +'\n')
+        # document.add_paragraph(cell.offset(column=32).value +'\n')
+        # document.add_paragraph(cell.offset(column=33).value +'\n')
 
         # 遍历所有 InlineShape 对象
         # for image in document.inline_shapes:
