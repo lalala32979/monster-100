@@ -22,8 +22,8 @@ for cell in sheet['A']:
         # 获取 C 列的数据
         c_cell = cell.offset(column=2)
         folder_name = c_cell.value
+        print(folder_name)
         d_cell = cell.offset(column=3)
-        folder_name = c_cell.value
         folder_type = type_lis[d_cell.value - 1]
         
         num_str = str(cell.value).zfill(3)
