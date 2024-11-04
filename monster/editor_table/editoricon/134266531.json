@@ -1,10 +1,11 @@
 {
     "describe": "", 
+    "import_export_folder_info": "/code_explorer_custom_root_folder_name/\u602a\u7269\u9884\u7f6e", 
     "key": 134266531, 
     "md5": "ea687010c3d5964c31efd7efe9ac0c25", 
     "name": "\u706b\u5de8\u4eba", 
     "path": "ui/134266531", 
-    "res_type": "kkres", 
+    "res_type": "editor_icon", 
     "size": "128X128", 
     "uid": "134266531", 
     "version": 1

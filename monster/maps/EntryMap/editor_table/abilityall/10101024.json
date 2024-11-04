@@ -9,7 +9,7 @@
         ]
     }, 
     "ability_build_subtype": 1, 
-    "ability_bw_point": 1.0, 
+    "ability_bw_point": 0.56, 
     "ability_cast_point": 0.0, 
     "ability_cast_range": {
         "__tuple__": true, 
@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.47, 
+    "ability_prepare_time": 0.46, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [
@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "1.5"
+            "1.22"
         ]
     }, 
     "collection_animation": "", 
@@ -212,7 +212,7 @@
             "show_in_attr": true, 
             "sort": 5, 
             "type": 0, 
-            "value": "head"
+            "value": "hand1"
         }, 
         "\u5f39\u9053\u7c7b\u578b": {
             "annotation": "", 
