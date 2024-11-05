@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.7, 
+    "ability_prepare_time": 0.64, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [
@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "1.6"
+            "1.74"
         ]
     }, 
     "collection_animation": "", 
@@ -213,7 +213,7 @@
             "show_in_attr": true, 
             "sort": 6, 
             "type": 0, 
-            "value": "head"
+            "value": "hand1"
         }, 
         "\u5f39\u9053\u7c7b\u578b": {
             "annotation": "", 
