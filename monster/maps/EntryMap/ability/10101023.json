@@ -4,6 +4,10 @@
             "variable_dict": {}, 
             "variable_length_dict": {}
         }, 
+        "1062289411": {
+            "variable_dict": {}, 
+            "variable_length_dict": {}
+        }, 
         "2027696129": {
             "variable_dict": {
                 "INTEGER": {
@@ -169,7 +173,7 @@
                         {
                             "arg_type": 100000, 
                             "args_list": [
-                                -1000.0
+                                0.0
                             ], 
                             "sub_type": 1
                         }, 
@@ -195,7 +199,7 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 507219970000008, 
+                                    "element_id": 507219970000048, 
                                     "enable": true, 
                                     "op_arg": [
                                         {
@@ -276,7 +280,7 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 507219970000009, 
+                                    "element_id": 507219970000049, 
                                     "enable": true, 
                                     "op_arg": [
                                         {
@@ -312,10 +316,12 @@
                                                 true
                                             ], 
                                             "sub_type": 1
-                                        }
+                                        }, 
+                                        null
                                     ], 
                                     "op_arg_enable": [
                                         true, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -386,7 +392,7 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 507219970000010, 
+                                    "element_id": 507219970000050, 
                                     "enable": true, 
                                     "op_arg": [
                                         {
@@ -447,6 +453,11 @@
                                     ]
                                 }
                             ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
                             "sub_type": 1
                         }, 
                         {
@@ -651,6 +662,9 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -658,6 +672,9 @@
                         true, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -691,6 +708,23 @@
             "p_trigger_id": null, 
             "trigger_id": 507219970, 
             "trigger_name": "\u5f39\u9053\u653b\u51fb", 
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
+        }, 
+        "1062289411": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "group_id": 10101023, 
+            "p_trigger_id": null, 
+            "trigger_id": 1062289411, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
             "valid": true, 
             "var_data": [
                 {}, 
@@ -1173,6 +1207,13 @@
                     "items": [
                         507219970, 
                         "\u5f39\u9053\u653b\u51fb"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1062289411, 
+                        "\u65b0\u5efa\u89e6\u53d1\u5668"
                     ]
                 }
             ], 

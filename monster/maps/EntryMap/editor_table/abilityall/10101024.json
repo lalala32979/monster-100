@@ -162,7 +162,7 @@
     "influenced_by_move": true, 
     "is_autocast": false, 
     "is_charge_ability": false, 
-    "is_immediate": false, 
+    "is_immediate": 0, 
     "is_meele": false, 
     "key": 10101024, 
     "kv": {
@@ -212,7 +212,7 @@
             "show_in_attr": true, 
             "sort": 5, 
             "type": 0, 
-            "value": "attack1"
+            "value": "\u81ea\u5b9a\u4e49_\u5f39\u9053\u7ed1\u70b9"
         }, 
         "\u5f39\u9053\u7c7b\u578b": {
             "annotation": "", 

@@ -6,7 +6,7 @@
     "description": 321821368, 
     "effect_destroy_way_is_immediately": false, 
     "effect_foes": [
-        102159, 
+        104348, 
         {
             "__tuple__": true, 
             "items": [
@@ -31,7 +31,7 @@
                 0.6
             ]
         }, 
-        1.0, 
+        2.0, 
         {
             "anim": "idle1", 
             "base_color_mod": 1, 
@@ -72,7 +72,7 @@
         }
     ], 
     "effect_friend": [
-        102159, 
+        104348, 
         {
             "__tuple__": true, 
             "items": [
@@ -97,7 +97,7 @@
                 0.6
             ]
         }, 
-        1.0, 
+        2.0, 
         {
             "anim": "idle1", 
             "base_color_mod": 1, 
@@ -144,6 +144,7 @@
     "move_channel": 0, 
     "move_limitation": 1, 
     "name": -424721237, 
+    "poolable": false, 
     "sfx_loop": false, 
     "sound_event_list": {
         "__tuple__": true, 

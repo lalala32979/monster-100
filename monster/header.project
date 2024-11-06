@@ -13,5 +13,9 @@
     "phy_mode": "2.5d", 
     "project_id": 338015845160510064206090308583757970973, 
     "project_name": "100\u602a\u7269", 
+    "steam_lobby_map": {
+        "id": "", 
+        "name": ""
+    }, 
     "version": 9
 }

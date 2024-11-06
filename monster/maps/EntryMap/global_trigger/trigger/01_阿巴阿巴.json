@@ -646,7 +646,9 @@
         389267461, 
         1011367942, 
         323952647, 
-        307232776
+        307232776, 
+        1301463049, 
+        1754550282
     ], 
     "call_enabled": true, 
     "condition": [], 
@@ -2375,6 +2377,140 @@
             "p_trigger_id": 1410441218, 
             "trigger_id": 1011367942, 
             "trigger_name": "选择小怪分类", 
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
+        }, 
+        "1301463049": {
+            "action": [
+                {
+                    "action_type": "APPLY_CAMERA_CONF", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }, 
+                        {
+                            "arg_type": 100073, 
+                            "args_list": [
+                                10011
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                0.5
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1301463049000002, 
+                    "enable": true, 
+                    "op_arg": [
+                        null
+                    ], 
+                    "op_arg_enable": [
+                        false
+                    ]
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": false, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                47
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1301463049000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }
+            ], 
+            "group_id": 0, 
+            "is_conf": true, 
+            "p_trigger_id": 1410441218, 
+            "trigger_id": 1301463049, 
+            "trigger_name": "按下TAB_2", 
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
+        }, 
+        "1754550282": {
+            "action": [
+                {
+                    "action_type": "APPLY_CAMERA_CONF", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [], 
+                            "sub_type": "TRIGGER_PLAYER"
+                        }, 
+                        {
+                            "arg_type": 100073, 
+                            "args_list": [
+                                9999
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                0.5
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1754550282000002, 
+                    "enable": true, 
+                    "op_arg": [
+                        null
+                    ], 
+                    "op_arg_enable": [
+                        false
+                    ]
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": false, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                48
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1754550282000001, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }
+            ], 
+            "group_id": 0, 
+            "is_conf": true, 
+            "p_trigger_id": 1410441218, 
+            "trigger_id": 1754550282, 
+            "trigger_name": "按下TAB_3", 
             "valid": true, 
             "var_data": [
                 {}, 

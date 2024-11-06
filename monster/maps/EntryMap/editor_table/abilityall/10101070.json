@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.69, 
+    "ability_prepare_time": 0.71, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [
@@ -162,7 +162,7 @@
     "influenced_by_move": true, 
     "is_autocast": false, 
     "is_charge_ability": false, 
-    "is_immediate": false, 
+    "is_immediate": 0, 
     "is_meele": false, 
     "key": 10101070, 
     "kv": {
@@ -210,7 +210,7 @@
             "prop_cls": "PText", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 7, 
+            "sort": 6, 
             "type": 0, 
             "value": "attack2"
         }, 
@@ -222,7 +222,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 6, 
+            "sort": 5, 
             "type": 9, 
             "value": 134271735
         }, 
@@ -234,7 +234,7 @@
             "prop_cls": "PInt", 
             "remark": "", 
             "show_in_attr": true, 
-            "sort": 5, 
+            "sort": 4, 
             "type": 2, 
             "value": 1
         }, 

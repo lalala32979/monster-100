@@ -22,6 +22,10 @@
                     ]
                 ]
             }, 
+            "tags": {
+                "__tuple__": true, 
+                "items": []
+            }, 
             "type": 1024
         }, 
         "10003": {
@@ -45,6 +49,10 @@
                         2640920576
                     ]
                 ]
+            }, 
+            "tags": {
+                "__tuple__": true, 
+                "items": []
             }, 
             "type": 1024
         }, 
@@ -70,6 +78,10 @@
                     ]
                 ]
             }, 
+            "tags": {
+                "__tuple__": true, 
+                "items": []
+            }, 
             "type": 1024
         }, 
         "10007": {
@@ -93,6 +105,10 @@
                         26411008
                     ]
                 ]
+            }, 
+            "tags": {
+                "__tuple__": true, 
+                "items": []
             }, 
             "type": 1024
         }, 
@@ -118,6 +134,10 @@
                     ]
                 ]
             }, 
+            "tags": {
+                "__tuple__": true, 
+                "items": []
+            }, 
             "type": 1024
         }, 
         "10009": {
@@ -141,6 +161,10 @@
                         3859906560
                     ]
                 ]
+            }, 
+            "tags": {
+                "__tuple__": true, 
+                "items": []
             }, 
             "type": 1024
         }
@@ -177,6 +201,10 @@
                 ]
             }, 
             "sound": null, 
+            "tags": {
+                "__tuple__": true, 
+                "items": []
+            }, 
             "type": 2048, 
             "weather": 0, 
             "width": {
@@ -220,6 +248,10 @@
                 ]
             }, 
             "sound": null, 
+            "tags": {
+                "__tuple__": true, 
+                "items": []
+            }, 
             "type": 4096, 
             "weather": 0
         }
@@ -248,6 +280,29 @@
             "set_camera_conf_realtime": false, 
             "type": 32768, 
             "yaw": 0.0
+        }, 
+        "10011": {
+            "camera_dist": 24.0, 
+            "far": 1000.0, 
+            "focus_max_dist": null, 
+            "focus_min_dist": null, 
+            "focus_x": 0.0, 
+            "focus_y": 0.0, 
+            "focus_z": 64.0, 
+            "fov": 35.0, 
+            "fov_disabled": null, 
+            "id": 10011, 
+            "is_origin_cam": false, 
+            "is_ortho": false, 
+            "name": "\u955c\u5934", 
+            "ortho_scale": 1.0, 
+            "pitch": 0.9773843865841627, 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": false, 
+            "type": 32768, 
+            "yaw": 4.71238900674507
         }
     }, 
     "65536": {}, 

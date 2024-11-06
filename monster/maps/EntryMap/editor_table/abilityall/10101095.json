@@ -51,7 +51,7 @@
             "0"
         ]
     }, 
-    "ability_prepare_time": 0.7, 
+    "ability_prepare_time": 0.71, 
     "ability_stack_cd": {
         "__tuple__": true, 
         "items": [
@@ -162,7 +162,7 @@
     "influenced_by_move": true, 
     "is_autocast": false, 
     "is_charge_ability": false, 
-    "is_immediate": false, 
+    "is_immediate": 0, 
     "is_meele": false, 
     "key": 10101095, 
     "kv": {

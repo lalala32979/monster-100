@@ -162,7 +162,7 @@
     "influenced_by_move": true, 
     "is_autocast": false, 
     "is_charge_ability": false, 
-    "is_immediate": false, 
+    "is_immediate": 0, 
     "is_meele": false, 
     "key": 10101031, 
     "kv": {

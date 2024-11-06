@@ -224,6 +224,15 @@
             ]
         ]
     }, 
+    "stop_empty": {
+        "__tuple__": true, 
+        "items": [
+            false, 
+            [
+                " "
+            ]
+        ]
+    }, 
     "unit_common_atk_cmd": {
         "__tuple__": true, 
         "items": [

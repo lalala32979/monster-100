@@ -544,9 +544,13 @@
                                 {
                                     "arg_type": 100225, 
                                     "args_list": [
-                                        0.0
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "ABILITY_OWNER"
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "UNIT_FACE_ANGLE"
                                 }, 
                                 {
                                     "arg_type": 100006, 
@@ -627,7 +631,7 @@
                         {
                             "arg_type": 100000, 
                             "args_list": [
-                                -1000.0
+                                0.0
                             ], 
                             "sub_type": 1
                         }, 
@@ -653,7 +657,7 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 2134568962000033, 
+                                    "element_id": 2134568962000049, 
                                     "enable": true, 
                                     "op_arg": [
                                         {
@@ -734,7 +738,7 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 2134568962000034, 
+                                    "element_id": 2134568962000050, 
                                     "enable": true, 
                                     "op_arg": [
                                         {
@@ -770,10 +774,12 @@
                                                 true
                                             ], 
                                             "sub_type": 1
-                                        }
+                                        }, 
+                                        null
                                     ], 
                                     "op_arg_enable": [
                                         true, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -844,7 +850,7 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 2134568962000035, 
+                                    "element_id": 2134568962000051, 
                                     "enable": true, 
                                     "op_arg": [
                                         {
@@ -951,18 +957,25 @@
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 2134568962000036, 
+                                    "element_id": 2134568962000052, 
                                     "enable": true, 
                                     "op_arg": [
+                                        null, 
                                         null, 
                                         null
                                     ], 
                                     "op_arg_enable": [
                                         false, 
+                                        false, 
                                         false
                                     ]
                                 }
                             ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
                             "sub_type": 1
                         }, 
                         {
@@ -1167,6 +1180,9 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -1174,6 +1190,9 @@
                         true, 
                         false, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 

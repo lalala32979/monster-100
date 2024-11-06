@@ -377,10 +377,12 @@
                                                 true
                                             ], 
                                             "sub_type": 1
-                                        }
+                                        }, 
+                                        null
                                     ], 
                                     "op_arg_enable": [
                                         true, 
+                                        false, 
                                         false, 
                                         false, 
                                         false, 
@@ -750,7 +752,7 @@
                         {
                             "arg_type": 500220, 
                             "args_list": [
-                                2
+                                0
                             ], 
                             "sub_type": 1
                         }, 
@@ -788,11 +790,13 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null
                     ], 
                     "op_arg_enable": [
                         false, 
                         true, 
+                        false, 
                         false, 
                         false, 
                         false

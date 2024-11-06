@@ -104,6 +104,7 @@
         "items": []
     }, 
     "dynamic_collision_r": 5.5, 
+    "enable_item_slots": true, 
     "enable_strict_facing_mode": false, 
     "enemy_mini_map_icon": 100000, 
     "extra_dmg": 0.0, 
@@ -178,6 +179,12 @@
     "ori_bits": 0, 
     "ori_speed": 5.2, 
     "ori_speed_grow": 0.0, 
+    "outline_pass_color": [
+        0.0, 
+        0.0, 
+        0.0
+    ], 
+    "outline_pass_width": 2.0, 
     "passive_ability_list": {
         "__tuple__": true, 
         "items": []

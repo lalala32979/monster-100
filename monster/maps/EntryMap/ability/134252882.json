@@ -238,10 +238,12 @@
                                 true
                             ], 
                             "sub_type": 1
-                        }
+                        }, 
+                        null
                     ], 
                     "op_arg_enable": [
                         true, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -299,9 +301,11 @@
                     "enable": true, 
                     "op_arg": [
                         null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
+                        false, 
                         false, 
                         false
                     ]

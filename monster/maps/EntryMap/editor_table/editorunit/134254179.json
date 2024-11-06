@@ -103,6 +103,7 @@
         "items": []
     }, 
     "dynamic_collision_r": 1.0, 
+    "enable_item_slots": true, 
     "enable_strict_facing_mode": false, 
     "enemy_mini_map_icon": 100000, 
     "extra_dmg": 0.0, 
