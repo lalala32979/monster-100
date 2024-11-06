@@ -86,9 +86,13 @@
                                 {
                                     "arg_type": 100225, 
                                     "args_list": [
-                                        0.0
+                                        {
+                                            "arg_type": 100014, 
+                                            "args_list": [], 
+                                            "sub_type": "CUR_ABILITY"
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "GET_ABILITY_RELEASE_DIRECTION"
                                 }, 
                                 {
                                     "arg_type": 100006, 
@@ -577,7 +581,7 @@
                         false, 
                         false, 
                         true, 
-                        true, 
+                        false, 
                         false, 
                         false, 
                         false, 

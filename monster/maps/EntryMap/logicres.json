@@ -167,6 +167,34 @@
                 "items": []
             }, 
             "type": 1024
+        }, 
+        "10012": {
+            "id": 10012, 
+            "name": "\u7279\u6548\u70b9", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -36, 
+                        1984266240
+                    ], 
+                    [
+                        0, 
+                        0
+                    ], 
+                    [
+                        63, 
+                        151289856
+                    ]
+                ]
+            }, 
+            "tags": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "type": 1024
         }
     }, 
     "2048": {

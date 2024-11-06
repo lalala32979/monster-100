@@ -86,9 +86,13 @@
                                 {
                                     "arg_type": 100225, 
                                     "args_list": [
-                                        0.0
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "ABILITY_OWNER"
+                                        }
                                     ], 
-                                    "sub_type": 1
+                                    "sub_type": "UNIT_FACE_ANGLE"
                                 }, 
                                 {
                                     "arg_type": 100006, 

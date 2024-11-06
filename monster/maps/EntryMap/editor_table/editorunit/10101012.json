@@ -179,6 +179,12 @@
     "ori_bits": 0, 
     "ori_speed": 3.8, 
     "ori_speed_grow": 0.0, 
+    "outline_pass_color": [
+        0.0, 
+        0.0, 
+        0.0
+    ], 
+    "outline_pass_width": 2.0, 
     "passive_ability_list": {
         "__tuple__": true, 
         "items": []
@@ -201,6 +207,7 @@
         "shapes": {}
     }, 
     "pkg_slot_size": 0, 
+    "poolable": false, 
     "precondition_list": {
         "__tuple__": true, 
         "items": []
@@ -317,7 +324,6 @@
     "speed_ratio_in_turn": 1, 
     "standard_walk_rate": 40.0, 
     "start_rft": 1.0, 
-    "state_init": "", 
     "state_list": {
         "__tuple__": true, 
         "items": []
