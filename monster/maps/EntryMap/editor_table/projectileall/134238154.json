@@ -31,7 +31,7 @@
                 0.6
             ]
         }, 
-        2.0, 
+        0.5, 
         {
             "anim": "idle1", 
             "base_color_mod": 1, 
@@ -97,7 +97,7 @@
                 0.6
             ]
         }, 
-        2.0, 
+        0.5, 
         {
             "anim": "idle1", 
             "base_color_mod": 1, 
