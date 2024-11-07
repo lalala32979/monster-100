@@ -220,6 +220,19 @@
                 0.0, 
                 0.0
             ]
+        }, 
+        "\u81ea\u5b9a\u4e49_\u5f39\u9053\u7ed1\u70b9": {
+            "__tuple__": true, 
+            "items": [
+                "\u81ea\u5b9a\u4e49_\u5f39\u9053\u7ed1\u70b9", 
+                "Scene Root", 
+                0.67, 
+                1.71, 
+                0.49, 
+                0.0, 
+                0.0, 
+                0.0
+            ]
         }
     }, 
     "source": "code_Source_Import", 

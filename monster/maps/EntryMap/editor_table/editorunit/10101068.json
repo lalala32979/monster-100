@@ -207,6 +207,7 @@
         "shapes": {}
     }, 
     "pkg_slot_size": 0, 
+    "poolable": false, 
     "precondition_list": {
         "__tuple__": true, 
         "items": []
