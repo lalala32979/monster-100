@@ -14,7 +14,7 @@
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "2.5"
+            "1.8"
         ]
     }, 
     "ability_cast_type": 1, 
@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "1.15"
+            "1.5"
         ]
     }, 
     "collection_animation": "", 
