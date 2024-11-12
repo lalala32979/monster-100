@@ -14,7 +14,7 @@
     "ability_cast_range": {
         "__tuple__": true, 
         "items": [
-            "1.5"
+            "1.0"
         ]
     }, 
     "ability_cast_type": 1, 

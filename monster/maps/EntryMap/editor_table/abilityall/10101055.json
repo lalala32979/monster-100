@@ -107,7 +107,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "0.98"
+            "1.3"
         ]
     }, 
     "collection_animation": "", 
